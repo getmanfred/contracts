@@ -81,12 +81,19 @@ Our lawyers will review changes and, if it makes sense, we will merge your chang
 ## Change Log
 
 * 0.1 First Contracts Draft
+* 0.2 License info added
 
 ## License and Author Info
 
 Our contracts and the rest of content in this repository are available under de GNU Free Documentation License 1.3 (FDL 1.3). See LICENSE.txt for more information.
 
-If you have any question, you can contact us using...
+Why we chose the FDL 1.3?
+
+* It's viral. If you fork and modify this docs, your docs will be open too.
+* This License preserves for the author and publisher a way to get credit for their work...
+* ... while not being considered responsible for modifications made by others.
+
+If you have any further question, you can contact us using:
 
 * Email: hello@getmanfred.com
 * Twitter: https://twitter.com/getmanfred

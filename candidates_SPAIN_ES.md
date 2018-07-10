@@ -1,4 +1,10 @@
-# Contrato Awesómico
+# Contrato de representación awesómica
+
+ Copyright (C) 2018 Bonillaware SLU.
+ 
+ Se otorga permiso para copiar, distribuir y/o modificar este documento
+ siguiendo las clausulas de la GNU Free Documentation License, Version 1.3
+ o cualquier otra versión posterior publicada por la Free Software Foundation.
 
 ## 1. Las partes
 
