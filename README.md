@@ -85,7 +85,7 @@ Our lawyers will review changes and, if it makes sense, we will merge your chang
 
 ## License and Author Info
 
-Our contracts and the rest of content in this repository are available under de GNU Free Documentation License 1.3 (FDL 1.3). See LICENSE.txt for more information.
+Our contracts and the rest of content in this repository are available under the GNU Free Documentation License 1.3 (FDL 1.3). See LICENSE.txt for more information.
 
 Why we chose the FDL 1.3?
 
