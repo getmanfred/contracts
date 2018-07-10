@@ -84,12 +84,12 @@ Our lawyers will review changes and, if it makes sense, we will merge your chang
 
 ## License and Author Info
 
-TBD
+Our contracts and the rest of content in this repository are available under de GNU Free Documentation License 1.3 (FDL 1.3). See LICENSE.txt for more information.
 
-Providing licensing and contact information is important to clarify the legal status of your project. GitHub recommends that you include a LICENSE.txt in your repository’s root directory. Although this convention exists, it’s a good idea to include a brief section in the README with:
+If you have any question, you can contact us using...
 
-* Contact information for the author (I like Twitter and email)
-* A quick statement about the license the software is under. I usually do this by saying “XYZ is available under the $SoAndSo license. See LICENSE.txt for more information”. If you’re extra nice you can put a link to the license file.
+* Email: hello@getmanfred.com
+* Twitter: https://twitter.com/getmanfred
 
 
 ## Credits and Acknowledgments
