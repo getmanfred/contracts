@@ -41,7 +41,7 @@ Contracts are provided "as is" and there are no guarantees attached to them. If 
 
 ## The Candidate Contract
 
-It's a contract between an agent and the customer (candidate), where candidate set a mandate. If agent opens a hiring process according to it and candidate is finally hired, the agent will receive a fee, a % of candidate's gross annual salary (just for the first year), payed by candidate. 
+It's a contract between an agent and the customer (candidate), where candidate set a mandate. If agent opens a hiring process according to it and candidate is finally hired, the agent will receive a fee, a % of candidate's gross annual salary (just for the first year), paid by candidate. 
 
 In this contract, you can:
 
