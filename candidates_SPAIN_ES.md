@@ -71,10 +71,10 @@ El REPRESENTANTE, se compromete a:
 
 * **Obtener información sobre los procesos de selección en los que represente al CANDIDATO**. Esto significa que:
 
-	* Cada vez que el REPRESENTANTE tenga conocimiento de la existencia de un proceso de selección que considere que se ajusta al perfil, requisitos y expectativas del CANDIDATO, le informará de ello por escrito, a través del medio definido en el encabezado de este documento.
+	* Cada vez que el REPRESENTANTE tenga conocimiento de la existencia de un proceso de selección que considere que se ajusta al perfil, requisitos y expectativas del CANDIDATO, podrá informarle de ello por escrito, a través del medio definido en el encabezado de este documento.
 	* Siempre que la empresa responsable del proceso de selección suministre esta información, el REPRESENTANTE desglosará al CANDIDATO todos los detalles del proceso de selección -distintas pruebas, personas involucradas y plazos aproximados- y de las condiciones del puesto de trabajo, de los que tenga conocimiento.
 	* Sólo después de que el CANDIDATO autorice al REPRESENTANTE expresamente y por escrito, éste realizará los trámites necesarios para presentar su candidatura en el proceso de selección.
-	* El REPRESENTANTE informará  al CANDIDATO de las gestiones que haya realizado especificando si finalmente forma parte o no de dicho proceso de selección.
+	* El REPRESENTANTE informará al CANDIDATO de las gestiones que haya realizado, especificando si finalmente forma parte o no de dicho proceso de selección.
 
 * **Realizar el seguimiento del proceso de selección del que el CANDIDATO forme parte**. Siempre que el CANDIDATO forme parte de un proceso de selección y la empresa responsable del proceso no se niegue a suministrar dicha información, el REPRESENTANTE realizará un seguimiento del estado y progreso de dicho proceso de selección. Esto supone que:
 	* El REPRESENTANTE solicitará a los responsables del proceso información sobre el mismo en un plazo razonable, sin que en ningún caso este plazo exceda de dos (2) semanas a contar desde la última información proporcionada por los responsables de dicho proceso de selección e informará por escrito al CANDIDATO del estado del mismo.
