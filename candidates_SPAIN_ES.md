@@ -8,22 +8,22 @@
 
 ## 1. Las partes
 
-| Datos del Candidato        |
-|--------|--------|--------- |
-| Nombre y apellidos | .....|
-| DNI | ..... |
-| Dirección | .... |
-| Email | .... |
-| Teléfono | ..... |
+| Datos del Candidato | |
+| --- | --- |
+| Nombre y apellidos | __________ |
+| DNI | __________ |
+| Dirección | __________ |
+| Email | __________ |
+| Teléfono | __________ |
 
 A partir de ahora, el CANDIDATO.
 
-| Datos del Representante        |
-|--------|--------|--------- |
-| Nombre/ Denominación social | ...... |
-| NIF | ..... |
-| Domicilio social | ..... |
-| Email | ....... |
+| Datos del Representante | |
+| ---| --- |
+| Nombre / Denominación social | __________ |
+| NIF | __________ |
+| Domicilio social | __________ |
+| Email | __________ |
 
 A partir de ahora, el REPRESENTANTE
 
@@ -71,10 +71,10 @@ El REPRESENTANTE, se compromete a:
 
 * **Obtener información sobre los procesos de selección en los que represente al CANDIDATO**. Esto significa que:
 
-	* Cada vez que el REPRESENTANTE tenga conocimiento de la existencia de un proceso de selección que considere que se ajusta al perfil, requisitos y expectativas del CANDIDATO, le informará de ello por escrito, a través del medio definido en el encabezado de este documento.
+	* Cada vez que el REPRESENTANTE tenga conocimiento de la existencia de un proceso de selección que considere que se ajusta al perfil, requisitos y expectativas del CANDIDATO, podrá informarle de ello por escrito, a través del medio definido en el encabezado de este documento.
 	* Siempre que la empresa responsable del proceso de selección suministre esta información, el REPRESENTANTE desglosará al CANDIDATO todos los detalles del proceso de selección -distintas pruebas, personas involucradas y plazos aproximados- y de las condiciones del puesto de trabajo, de los que tenga conocimiento.
 	* Sólo después de que el CANDIDATO autorice al REPRESENTANTE expresamente y por escrito, éste realizará los trámites necesarios para presentar su candidatura en el proceso de selección.
-	* El REPRESENTANTE informará  al CANDIDATO de las gestiones que haya realizado especificando si finalmente forma parte o no de dicho proceso de selección.
+	* El REPRESENTANTE informará al CANDIDATO de las gestiones que haya realizado, especificando si finalmente forma parte o no de dicho proceso de selección.
 
 * **Realizar el seguimiento del proceso de selección del que el CANDIDATO forme parte**. Siempre que el CANDIDATO forme parte de un proceso de selección y la empresa responsable del proceso no se niegue a suministrar dicha información, el REPRESENTANTE realizará un seguimiento del estado y progreso de dicho proceso de selección. Esto supone que:
 	* El REPRESENTANTE solicitará a los responsables del proceso información sobre el mismo en un plazo razonable, sin que en ningún caso este plazo exceda de dos (2) semanas a contar desde la última información proporcionada por los responsables de dicho proceso de selección e informará por escrito al CANDIDATO del estado del mismo.
@@ -85,7 +85,7 @@ El REPRESENTANTE, se compromete a:
 
 * **Si el candidato le autoriza, expresamente y por escrito, y siempre que sea posible, a negociar su salario y/o otras condiciones laborales**. Tanto en nuevas empresas con procesos de selección abiertos en los que esté participando el candidato como en aquella donde el CANDIDATO venga prestando servicios de forma habitual.
 
-* **Proporcionar una garantía al candidato**. Si tras firmar un contrato como consecuencia directa de las gestiones del REPRESENTANTE, el CANDIDATO abandonara su nuevo puesto de trabajo de forma involuntaria o voluntariamente en un plazo inferior a seis (6) meses desde su incorporación efectiva, el REPRESENTANTE le devolverá la posible comisión cobrada, en el caso de que el CANDIDATO se haya cargo de la misma.
+* **Proporcionar una garantía al candidato**. Si tras firmar un contrato como consecuencia directa de las gestiones del REPRESENTANTE, el CANDIDATO abandonara su nuevo puesto de trabajo de forma involuntaria o voluntariamente en un plazo inferior a seis (6) meses desde su incorporación efectiva, el REPRESENTANTE le devolverá la posible comisión cobrada, en el caso de que el CANDIDATO se haya hecho cargo de la misma.
 
 ### 4.2 Obligaciones del candidato
 
@@ -103,19 +103,19 @@ El candidato se compromete a:
 
 * **Permitir que el REPRESENTANTE informe a las empresas de los motivos por los que no desea participar en un proceso de selección**, con el objetivo de que estas puedan mejorar dichos procesos, siempre sin revelar datos personales y/o profesionales del CANDIDATO.
 
-* **Pagar al REPRESENTANTE la cantidad equivalente al ___________  % del salario bruto anual + impuestos indirectos que vaya a percibir el CANDIDATO** cuando el CANDIDATO acepte y firme un contrato con una empresa como consecuencia de las gestiones realizadas por el REPRESENTANTE, en cumplimiento del mandato expreso del CANDIDATO, documentado en el Anexo de este contrato. La comisión se pagara en 3 partes: la primera, en los 15 días posteriores a la firma del contrato; la segunda, a los 45 días de dicha firma y la última a los 3 meses, excepto que en el Anexo de este contrato se estipulen condiciones diferentes.
+* **Pagar al REPRESENTANTE la cantidad equivalente al ___________  % del salario bruto anual + impuestos indirectos que vaya a percibir el CANDIDATO** cuando el CANDIDATO acepte y firme un contrato con una empresa como consecuencia de las gestiones realizadas por el REPRESENTANTE, en cumplimiento del mandato expreso del CANDIDATO, documentado en el Anexo de este contrato. Esta comisión es única y no recurrente, vinculada a los hechos descritos en esta clausula, y se pagara en 3 partes: la primera, en los 15 días posteriores a la firma del contrato; la segunda, a los 45 días de dicha firma y la última a los 3 meses, excepto que en el Anexo de este contrato se estipulen condiciones diferentes. 
 
 No obstante, **se contemplan una serie de excepciones que podrían eximir al CANDIDATO del pago de la comisión del REPRESENTANTE**:
 
 * Si durante la vigencia del mandato el CANDIDATO disfruta de una mejora en sus condiciones laborales y/o celebra un nuevo contrato no gestionado por el REPRESENTANTE, **será el CANDIDATO quien tendrá la potestad de determinar si esta contratación ha sido consecuencia de la labor de gestión de carrera profesional realizada por el REPRESENTANTE** y, por tanto, si debe pagar la comisión por sus servicios.
-* Por descontado, en aquellos **procesos de selección en los que las empresas contacten directamente con el REPRESENTANTE en busca de perfiles técnicos concretos que pueda tener en cartera** (por ejemplo: "necesito un Desarrollador de JAVA con cinco años de experiencia que hable gallego"), el CANDIDATO quedrá exento del pago de la comisión que será siempre será asumida por la empresa solicitante.
+* Por descontado, en aquellos **procesos de selección en los que las empresas contacten directamente con el REPRESENTANTE en busca de perfiles técnicos concretos que pueda tener en cartera** (por ejemplo: "necesito un Desarrollador de JAVA con cinco años de experiencia que hable gallego"), el CANDIDATO quedará exento del pago de la comisión que siempre será asumida por la empresa solicitante.
 * Esta comisión sí se mantendrá en el caso en que el CANDIDATO acepte una contraoferta de su actual empleador, **sólo como consecuencia directa de las gestiones del REPRESENTANTE** -bien por mantener negociaciones con su actual empleador por mandato del CANDIDATO, bien porque dicha contraoferta sea provocada por una oferta laboral recibida por el CANDIDATO con la intermediación del representante- calculando este porcentaje sobre el nuevo salario bruto anual percibido por dicho CANDIDATO.
 
 ### 4.3 Control de los procesos de selección
 
 El CANDIDATO siempre tendrá  control total sobre el proceso: no sólo definirá los requisitos mínimos que deben cumplir las potenciales ofertas que le presente el REPRESENTANTE, sino que también puede definir, si lo desea, cuales no le interesan en absoluto. Y, por supuesto, puede cambiar de opinión en cualquier momento.
 
-A pesar de que una oferta cumpla dichos requisitos mínimos, el REPRESENTANTE nunca suministrará datos personales y/o profesionales del representado sin el consentimiento expreso y por escrito del mismo para dicha oferta en concreto.
+A pesar de que una oferta cumpla dichos requisitos mínimos, el REPRESENTANTE nunca suministrará datos personales y/o profesionales del CANDIDATO sin el consentimiento expreso y por escrito del mismo para dicha oferta en concreto.
 
 
 ### 4.4 Protección de datos
@@ -132,7 +132,7 @@ El REPRESENTANTE conservará los datos del CANDIDATO mientras este contrato siga
 
 Por supuesto, el CANDIDATO tiene derecho a solicitar el acceso, rectificación, cancelación, oposición, portabilidad, supresión y la limitación del tratamiento de sus datos. Para ello, debe ponerse en contacto con el REPRESENTANTE enviándole un email a la direccion de correo electrónico que éste ha proporcionado en el encabezado de este documento. El CANDIDATO debe acompañar su solicitud con una copia de su DNI.
 
-Si el CANDIDATO considera que el tratamiento de sus datos personales realizado por el REPRESENTANTE no se ajusta a la normativa vigente, le informamos que tiene derecho a presentar una reclamación ante la Agencia Española de Protección de Datos (www.agpd.es).
+Si el CANDIDATO considera que el tratamiento de sus datos personales realizado por el REPRESENTANTE no se ajusta a la normativa vigente, tiene derecho a presentar una reclamación ante la Agencia Española de Protección de Datos (www.agpd.es).
 
 
 ### 4.5 No exclusividad
@@ -163,14 +163,14 @@ Las partes se someten al arbitraje para la resolución de cualquier controversia
 
 Para que así conste, después de haberlo leído y manifestando que están conformes con el contenido del presente contrato, lo firman
 
-El represententante
+El REPRESENTANTE
 
 
 
 
-El candidato
+El CANDIDATO
 
 
 
-En Madrid a ..... de ..... de 20..
+En Madrid, a ........ de ....... de 20...........  
 
