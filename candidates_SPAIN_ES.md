@@ -85,7 +85,7 @@ El REPRESENTANTE, se compromete a:
 
 * **Si el candidato le autoriza, expresamente y por escrito, y siempre que sea posible, a negociar su salario y/o otras condiciones laborales**. Tanto en nuevas empresas con procesos de selección abiertos en los que esté participando el candidato como en aquella donde el CANDIDATO venga prestando servicios de forma habitual.
 
-* **Proporcionar una garantía al candidato**. Si tras firmar un contrato como consecuencia directa de las gestiones del REPRESENTANTE, el CANDIDATO abandonara su nuevo puesto de trabajo de forma involuntaria o voluntariamente en un plazo inferior a seis (6) meses desde su incorporación efectiva, el REPRESENTANTE le devolverá la posible comisión cobrada, en el caso de que el CANDIDATO se haya cargo de la misma.
+* **Proporcionar una garantía al candidato**. Si tras firmar un contrato como consecuencia directa de las gestiones del REPRESENTANTE, el CANDIDATO abandonara su nuevo puesto de trabajo de forma involuntaria o voluntariamente en un plazo inferior a seis (6) meses desde su incorporación efectiva, el REPRESENTANTE le devolverá la posible comisión cobrada, en el caso de que el CANDIDATO se haya hecho cargo de la misma.
 
 ### 4.2 Obligaciones del candidato
 
@@ -163,14 +163,14 @@ Las partes se someten al arbitraje para la resolución de cualquier controversia
 
 Para que así conste, después de haberlo leído y manifestando que están conformes con el contenido del presente contrato, lo firman
 
-El represententante
+El REPRESENTANTE
 
 
 
 
-El candidato
+El CANDIDATO
 
 
 
-En Madrid a ..... de ..... de 20..
+En Madrid, a ........ de ....... de 20...........  
 
