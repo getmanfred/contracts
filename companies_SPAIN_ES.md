@@ -88,7 +88,14 @@ En prueba de su conformidad con el contenido este contrato así lo firman
 
 El REPRESENTANTE
 
-La EMPRESA
 
-En Madrid, a .... de ....de 20...._  
+
+
+La EMPRESA 
+
+
+
+
+
+En Madrid, a ........ de ....... de 20...........  
 
