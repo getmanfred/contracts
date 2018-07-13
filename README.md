@@ -6,7 +6,7 @@
 </p>
 
 
-Contracts used by the Manfred Tech Talent Agency to regulate rights and obligations of both candidates and companies.
+Contracts used by the Manfred Tech Talent Agency to regulate rights and obligations between Manfred and both candidates and companies.
 
 ## Table of Contents
 
@@ -22,26 +22,26 @@ Contracts used by the Manfred Tech Talent Agency to regulate rights and obligati
 
 ## Motivation
 
-One of the peculiarities of recruitment is opacity when it should be a business based on transparency and openness because **all of this it's not about apples or windows but people**.
+One of the peculiarities of recruitment is opacity. Recruitment should be a business of transparency and openness because **this it's not about Apples or PCs but people**.
 
-We are committed to change that model with a candidate-centric approach and, as a first step toward our goal, **we have *opensourced* the contracts we use with both candidates and companies** so they can be read, studied, compared, discussed and used by the Community.
+We are committed to change that model with a candidate-centric approach and, as a first step toward our goal, **we have *open-source*d the contracts we use with both talent/candidates and hiring companies** so they can be read, studied, compared, discussed and used by the Community.
 
-It's just a little contribution but hopefully it could help to disrupt the hiring status quo.
+It's just a small contribution but hopefully it is the first step in disrupting the status quo of recruiting.
 
 ## Getting Started
 
-**It is important to distinguish between language and jurisdiction**. Law changes depending on where the contract object is located but it could be redacted in local language or not because at the end it's a private agreement.
+**It is important to distinguish between language and jurisdiction**. Law changes depending on where the contract object is located (affecting legal jurisdiction) but language may also introduce material changes through malicious or accidental redactions made in local language - this can be hard to confirm or understand as at the end of the day it's a private agreement.
 
-Because that, files in our contracts repository are following this nomenclature:
+As such, files in our contracts repository follow this nomenclature:
 
 * candidates: 'candidates_' + COUNTRY + [ISO 369-1](https://en.wikipedia.org/wiki/ISO_639-1), for language (e.g. candidates_SPAIN_ES.md)
 * companies: 'companies' + COUNTRY + [ISO 369-1](https://en.wikipedia.org/wiki/ISO_639-1), for language (e.g. companies_SPAIN_ES.md)
 
-Contracts are provided "as is" and there are no guarantees attached to them. If you want to use them, please do it at your own risk. In that case, we deeply recommend to you to look for professional legal advice.
+Contracts are provided "as is" and there are no guarantees or warranties attached to them. If you want to use them, please do so at your own risk. We always recommend you seek independent, professional legal advice.
 
 ## The Candidate Contract
 
-It's a contract between an agent and the customer (candidate), where candidate set a mandate. If agent opens a hiring process according to it and candidate is finally hired, the agent will receive a fee, a % of candidate's gross annual salary (just for the first year), paid by candidate. 
+This is the contract between an agent and the customer (candidate), where candidate gives a mandate (a set of orders and requirements) to agent. If agent opens a hiring process according to it and candidate is finally hired, the agent will receive a fee, a % of candidate's gross annual salary (first year salary), payable by candidate.
 
 In this contract, you can:
 
@@ -49,12 +49,12 @@ In this contract, you can:
 * Set the candidate mandate
 * Set the agent fee
 
-We have also clauses to manage edge cases as counteroffers, promotions or hiring processes not managed directly by the agent. Obviously, based on our very own 'candidate-centric' model.
+We also have clauses to manage edge cases, such as: counter-offers, promotions or hiring processes not managed directly by the agent. We draft all clauses based on our very own 'candidate-centric' model.
 
 
 ## The Company Contract
 
-Sometimes, companies approach us looking for talent. In this case, we work as both talent agents and head hunters. This is a contract between an agent and the customer (company), where company set a need (a job position with specific requirements). If agent opens a hiring process according to it and one candidate is finally hired, the agent will receive a fee, a % of candidate's gross annual salary (just for the first year), payed by company. 
+Sometimes, companies approach us looking for talent. In this case, we work as both talent agents and headhunters. This is a contract between an agent and the customer (company), where the company can define their need(s) (e.g. a job position with specific requirements). If agent opens a hiring process accordingly and a candidate is hired, the agent will receive a fee (% of candidate's gross annual salary (first year salary), payable by company.
 
 In this contract, you can:
 
@@ -62,7 +62,7 @@ In this contract, you can:
 * Set the company needs
 * Set the agent fee
 
-We have also clauses to manage the whole hiring process. Obviously, based on our very own 'candidate-centric' model.
+We also have clauses to manage the entire hiring process. We draft all clauses based on our very own 'candidate-centric' model.
 
 ## Things to be Done
 
@@ -74,14 +74,15 @@ We have also clauses to manage the whole hiring process. Obviously, based on our
 
 ## How to propose a Change
 
-Please, fork the repository and work on it at your own. Later, if you have introduced changes that could improve the docs for general use, [create a pull request from your fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
+Please feel free to go ahead and fork the repository and create your own version. Later, if you have introduced changes that could improve the docs for general use, [create a pull request from your fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
-Our lawyers will review changes and, if it makes sense, we will merge your changes in the master repository and we will credit you. Thanks for your collaboration!
+Our lawyers will then review changes and, if it makes sense, we will merge your changes into the master repository and we will credit you. Thanks in advance for your collaboration!
 
 ## Change Log
 
 * 0.1 First Contracts Draft
 * 0.2 License info added
+* 0.3 English Review
 
 ## License and Author Info
 
@@ -89,11 +90,11 @@ Our contracts and the rest of content in this repository are available under the
 
 Why we chose the FDL 1.3?
 
-* It's viral. If you fork and modify this docs, your docs will be open too.
+* It's viral. If you fork and modify these docs, your docs will be open too.
 * This License preserves for the author and publisher a way to get credit for their work...
-* ... while not being considered responsible for modifications made by others.
+* ... whilst not assuming responsibility for further modifications made by others.
 
-If you have any further question, you can contact us using:
+More questions? Contact us:
 
 * Email: hello@getmanfred.com
 * Twitter: https://twitter.com/getmanfred
