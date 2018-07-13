@@ -8,23 +8,23 @@
 
 ## 1. Partes
 
-| Datos de la empresa |
-| ---- | ----- |
-| Denominación social|--- |
-|Sede social|---- |
-|Email| -----|
-|Teléfono| ------|
-|Representante|------ |
+| Datos de la empresa ||
+| --- | ---|
+| Denominación social| __________ |
+|Sede social| __________|
+|Email| __________|
+|Teléfono| __________ |
+|Representante| __________ |
 
 En adelante de la EMPRESA
 
-| Datos del Representante |
-|----|-----|
-| Nombre/Denominación social |----- |
-| Domicilio/Sede social |---- |
-| Email |-----|
-| Teléfono |------|
-| Representante| ----- |
+| Datos del Representante ||
+| --- | --- |
+| Nombre / Denominación social | __________ |
+| Domicilio/Sede social | __________ |
+| Email | __________ |
+| Teléfono | __________ |
+| Representante| __________ |
 
 En adelante el REPRESENTANTE
 
