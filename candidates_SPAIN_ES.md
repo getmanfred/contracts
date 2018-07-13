@@ -8,22 +8,22 @@
 
 ## 1. Las partes
 
-| Datos del Candidato        |
-|--------|--------|--------- |
-| Nombre y apellidos | .....|
-| DNI | ..... |
-| Dirección | .... |
-| Email | .... |
-| Teléfono | ..... |
+| Datos del Candidato | |
+| --- | --- |
+| Nombre y apellidos | __________ |
+| DNI | __________ |
+| Dirección | __________ |
+| Email | __________ |
+| Teléfono | __________ |
 
 A partir de ahora, el CANDIDATO.
 
-| Datos del Representante        |
-|--------|--------|--------- |
-| Nombre/ Denominación social | ...... |
-| NIF | ..... |
-| Domicilio social | ..... |
-| Email | ....... |
+| Datos del Representante | |
+| ---| --- |
+| Nombre / Denominación social | __________ |
+| NIF | __________ |
+| Domicilio social | __________ |
+| Email | __________ |
 
 A partir de ahora, el REPRESENTANTE
 
