@@ -6,7 +6,7 @@
 </p>
 
 
-Contracts used by the Manfred Tech Talent Agency to regulate rights and obligations between Manfred and both candidates and companies.
+Contracts used by the [Manfred Tech Talent Agency](https://www.getmanfred.com/) to regulate rights and obligations between Manfred and both candidates and companies.
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ One of the peculiarities of recruitment is opacity. Recruitment should be a busi
 
 We are committed to change that model with a candidate-centric approach and, as a first step toward our goal, **we have *open-source*d the contracts we use with both talent/candidates and hiring companies** so they can be read, studied, compared, discussed and used by the Community.
 
-It's just a small contribution but hopefully it is the first step in disrupting the status quo of recruiting.
+It's just a small contribution but hopefully it is the first step in disrupting the status quo of recruiting. You can take a look at **our manifesto** and learn more about us on [our website](https://www.getmanfred.com/).
 
 ## Getting Started
 
@@ -83,6 +83,7 @@ Our lawyers will then review changes and, if it makes sense, we will merge your 
 * 0.1 First Contracts Draft
 * 0.2 License info added
 * 0.3 English Review
+* 0.4 Credits added
 
 ## License and Author Info
 
@@ -94,6 +95,11 @@ Why we chose the FDL 1.3?
 * This License preserves for the author and publisher a way to get credit for their work...
 * ... whilst not assuming responsibility for further modifications made by others.
 
+These contracts have been written by [NoLegalTech](https://nolegaltech.com/):
+
+* Email: hola@nolegaltech.com
+* Twitter: https://twitter.com/NoLegalTech
+
 More questions? Contact us:
 
 * Email: hello@getmanfred.com
@@ -102,4 +108,10 @@ More questions? Contact us:
 
 ## Credits and Acknowledgments
 
-TBD
+Special thanks go to those who contributed to publish this repository:
+
+* [David Morillo](https://twitter.com/dmorillo), from HiringIT, who provided us the basic know-how to start to work with.
+* [Ben Naftzger](https://twitter.com/bennaftzger), who *debugged* the readme final version.
+* [Pepe Doval](https://twitter.com/pepellou), for his infinite patience teaching the legal team how to use Git :)
+
+Made with ❤️ and sentidiño in Galicia, Spain.
