@@ -39,7 +39,7 @@ A los efectos de este contrato se entiende por:
 
 ## 3. Naturaleza y Objeto del contrato
 
-La gestión de nuestra carrera profesional es una tarea complicada que requiere dedicación y determinadas habilidades que poco tienen que ver con nuestro desempeño. Uno de los puntos clave de esa gestión de una carrera profesional es la búsqueda de nuevas oportunidades laborales. Se podría decir que la búscar trabajo es un trabajo en sí mismo.
+La gestión de nuestra carrera profesional es una tarea complicada que requiere dedicación y determinadas habilidades que poco tienen que ver con nuestro desempeño. Uno de los puntos clave de esa gestión de una carrera profesional es la búsqueda de nuevas oportunidades laborales. Se podría decir que búscar trabajo es un trabajo en sí mismo.
 
 Este contrato tiene por objeto definir las tareas, procesos y gestiones que el REPRESENTANTE llevará a cabo para ayudar al CANDIDATO a gestionar su carrera profesional y cómo este último retribuirá al primero por dichas gestiones, que incluirán entre diversas actividades y sin ánimo exhaustivo: asesorarle a la hora de elaborar y/o actualizar su curriculum vitae, identificar sus puntos fuertes y  areas de mejora, y, en su caso, encontrar el trabajo que más se ajuste a sus necesidades, preferencias y posibilidades.
 
