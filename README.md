@@ -14,6 +14,7 @@ Contracts used by the [Manfred Tech Talent Agency](https://www.getmanfred.com/) 
 - [Getting Started](#getting-started)
 - [The Candidate Contract](#the-candidate-contract)
 - [The Company Contract](#the-company-contract)
+- [The Fee](#the-fee)
 - [Things to be Done](#things-to-be-done)
 - [How to propose a Change](#how-to-propose-a-change)
 - [Change Log](#change-log)
@@ -64,6 +65,13 @@ In this contract, you can:
 
 We also have clauses to manage the entire hiring process. We draft all clauses based on our very own 'candidate-centric' model.
 
+## The Fee
+
+Some people asked us why we didn't include a explicit fee in the contract templates. The answer is very simple: because they are templates.
+
+These contract templates can be used by everyone, and everybody can decide which fee they want to charge. Nowadays, we charge 10% for both candidates and companies but the recruiting standard fee is around 15-20% or even 30%. It depends on the market and profiles.
+
+
 ## Things to be Done
 
 * 2.0 English translation of contracts for Spain jurisdiction
@@ -84,6 +92,8 @@ Our lawyers will then review changes and, if it makes sense, we will merge your 
 * 0.2 License info added
 * 0.3 English Review
 * 0.4 Credits added
+* 0.5 No-competition clause included
+* 0.6 Info about "the Fee" included
 
 ## License and Author Info
 
@@ -110,8 +120,9 @@ More questions? Contact us:
 
 Special thanks go to those who contributed to publish this repository:
 
-* [David Morillo](https://twitter.com/dmorillo), from HiringIT, who provided us the basic know-how to start to work with.
+* [David Morillo](https://twitter.com/dmorillo), from [HiringIT](https://hiringit.es/), who provided us the basic know-how to start to work with.
 * [Ben Naftzger](https://twitter.com/bennaftzger), who *debugged* the readme final version.
 * [Pepe Doval](https://twitter.com/pepellou), for his infinite patience teaching the legal team how to use Git :)
+* [José Antonio Espín](https://twitter.com/jaespinmora), for his constant feedback to improve the first version of these contracts.
 
 Made with ❤️ and sentidiño in Galicia, Spain.
