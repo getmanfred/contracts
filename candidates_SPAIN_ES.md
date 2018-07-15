@@ -39,13 +39,13 @@ A los efectos de este contrato se entiende por:
 
 ## 3. Naturaleza y Objeto del contrato
 
-La gestión de nuestra carrera profesional es una tarea complicada que requiere dedicación y determinadas habilidades que poco tienen que ver con nuestro desempeño. Uno de los puntos clave de esa gestión de una carrera profesional es la búsqueda de nuevas oportunidades laborales. Se podría decir que búscar trabajo es un trabajo en sí mismo.
+La gestión de nuestra carrera profesional es una tarea complicada que requiere dedicación y determinadas habilidades que poco tienen que ver con nuestro desempeño. Uno de los puntos clave de esa gestión de una carrera profesional es la búsqueda de nuevas oportunidades laborales. Se podría decir que buscar trabajo es un trabajo en sí mismo.
 
 Este contrato tiene por objeto definir las tareas, procesos y gestiones que el REPRESENTANTE llevará a cabo para ayudar al CANDIDATO a gestionar su carrera profesional y cómo este último retribuirá al primero por dichas gestiones, que incluirán entre diversas actividades y sin ánimo exhaustivo: asesorarle a la hora de elaborar y/o actualizar su curriculum vitae, identificar sus puntos fuertes y  areas de mejora, y, en su caso, encontrar el trabajo que más se ajuste a sus necesidades, preferencias y posibilidades.
 
 Para poder hacerlo, antes es necesario dejar firmado por escrito a que se compromete cada parte, para que no haya malos entendidos:
 
-* Este es un **contrato mercantil**. El CANDIDATO contrata al REPRESENTANTE para que realice una determinada tarea: ayudarle a definir y poner en valor su perfil profesional y encontrar los procesos de selección que más se ajusten al mismo.
+* Éste es un **contrato mercantil**. El CANDIDATO contrata al REPRESENTANTE para que realice una determinada tarea: ayudarle a definir y poner en valor su perfil profesional y encontrar los procesos de selección que más se ajusten al mismo.
 
 * **No existe ningún tipo de relación laboral entre REPRESENTANTE y CANDIDATO**. Aquí no hay jefes ni empleados.
 
@@ -63,7 +63,7 @@ El REPRESENTANTE, se compromete a:
 
 * **A intentar mejorar la carrera profesional del representado, pero no a conseguirlo**. Con toda la información que previamente y por escrito le haya proporcionado el CANDIDATO, el REPRESENTANTE se compromete a intentar mejorar su carrera profesional, en concordancia con los deseos previamente expresados por el mismo. Todas las actuaciones que en este sentido realice el REPRESENTANTE se harán de común acuerdo con el CANDIDATO y podrá incluir, entre otras:
 
-	* **La elaboración, revisión o actualización del curriculum vitae del CANDIDATO** para que este refleje con la mayor claridad posible todo su potencial. El REPRESENTANTE sólo podrá utilizar el nuevo curriculum vitae del CANDIDATO, después de que este le haya dado expresamente, por escrito, su conformidad con el nuevo formato y/o contenido y su consentimiento para su utilización.
+	* **La elaboración, revisión o actualización del curriculum vitae del CANDIDATO** para que éste refleje con la mayor claridad posible todo su potencial. El REPRESENTANTE sólo podrá utilizar el nuevo curriculum vitae del CANDIDATO, después de que este le haya dado expresamente, por escrito, su conformidad con el nuevo formato y/o contenido y su consentimiento para su utilización.
 	* **Definir junto al CANDIDATO los pasos a seguir para intentar reorientar su carrera profesional** de la manera adecuada para alcanzar los objetivos marcados.
 	* **Hacer un seguimiento de la progresión profesional del CANDIDATO** independientemente de los procesos de selección en los que este participe y del resultado de los mismos, mientras este contrato siga en vigor.
 	* Sin embargo, pese a sus esfuerzos, el REPRESENTANTE no puede garantizar ni garantiza que se vaya a conseguir esa mejora de la carrera profesional en los términos deseados por el CANDIDATO, ya que dicha consecución siempre dependerá de terceros, ajenos por completo a este contrato.
@@ -137,7 +137,7 @@ Si el CANDIDATO considera que el tratamiento de sus datos personales realizado p
 
 ### 4.5 No exclusividad
 
-El REPRESENTANTE podrá realizar esta misma actividad y firmar este mismo contrato con otros candidatos. El CANDIDATO puede contratar a tantos representantes como quiera. Eso sí, sin que eso le exima de pagar la comisión pactada con el REREPRESENTANTE en este contrato.
+El REPRESENTANTE podrá realizar esta misma actividad y firmar este mismo contrato con otros candidatos. El CANDIDATO puede contratar a tantos representantes como quiera. Eso sí, sin que eso le exima de pagar la comisión pactada con el REPRESENTANTE en este contrato.
 
 ## 5. La extinción
 Este contrato se extinguirá por alguna de las siguientes causas:
