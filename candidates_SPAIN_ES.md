@@ -81,7 +81,7 @@ El REPRESENTANTE, se compromete a:
 	* En caso de que este proceso de selección no concluya con la contratación del CANDIDATO, el REPRESENTANTE pedirá a los encargados del proceso de selección información sobre la decisión tomada que permita mejorar la candidatura de su representado en futuros procesos.
 	* El REPRESENTANTE sólo informará al CANDIDATO -o a aquella persona de contacto que este designe expresamente y por escrito- del estado del proceso.
 
-* **Velar por los Privacidad de los datos del CANDIDATO**. Si este participa en un proceso de selección que no concluye sin su contratación, puede pedir al REPRESENTANTE que traslade a la empresa responsable del mismo su deseo expreso de que eliminen sus datos personales, siguiendo la legislación de Privacidad de Datos aplicable en cada momento.
+* **Velar por los Privacidad de los datos del CANDIDATO**. Si este participa en un proceso de selección que no concluya con su contratación, puede pedir al REPRESENTANTE que traslade a la empresa responsable del mismo su deseo expreso de que eliminen sus datos personales, siguiendo la legislación de Privacidad de Datos aplicable en cada momento.
 
 * **Si el candidato le autoriza, expresamente y por escrito, y siempre que sea posible, a negociar su salario y/o otras condiciones laborales**. Tanto en nuevas empresas con procesos de selección abiertos en los que esté participando el candidato como en aquella donde el CANDIDATO venga prestando servicios de forma habitual.
 
