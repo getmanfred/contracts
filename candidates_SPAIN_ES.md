@@ -43,7 +43,7 @@ La gestión de nuestra carrera profesional es una tarea complicada que requiere 
 
 Este contrato tiene por objeto definir las tareas, procesos y gestiones que el REPRESENTANTE llevará a cabo para ayudar al CANDIDATO a gestionar su carrera profesional y cómo este último retribuirá al primero por dichas gestiones, que incluirán entre diversas actividades y sin ánimo exhaustivo: asesorarle a la hora de elaborar y/o actualizar su curriculum vitae, identificar sus puntos fuertes y  areas de mejora, y, en su caso, encontrar el trabajo que más se ajuste a sus necesidades, preferencias y posibilidades.
 
-Para poder hacerlo, antes es necesario dejar firmado por escrito a que se compromete cada parte, para que no haya malos entendidos:
+Para poder hacerlo, antes es necesario dejar firmado por escrito a que se compromete cada parte, para que no haya malentendidos:
 
 * Este es un **contrato mercantil**. El CANDIDATO contrata al REPRESENTANTE para que realice una determinada tarea: ayudarle a definir y poner en valor su perfil profesional y encontrar los procesos de selección que más se ajusten al mismo.
 
