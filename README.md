@@ -120,7 +120,7 @@ More questions? Contact us:
 
 Special thanks go to those who contributed to publish this repository:
 
-* [David Morillo](https://twitter.com/dmorillo), from [HiringIT](https://hiringit.es/), who provided us the basic know-how to start to work with.
+* [David Morillo](https://twitter.com/dmorillo), from [HiringIT](https://hiringit.es/), who provided us with the basic know-how to start to work with.
 * [Ben Naftzger](https://twitter.com/bennaftzger), who *debugged* the readme final version.
 * [Pepe Doval](https://twitter.com/pepellou), for his infinite patience teaching the legal team how to use Git :)
 * [José Antonio Espín](https://twitter.com/jaespinmora), for his constant feedback to improve the first version of these contracts.
