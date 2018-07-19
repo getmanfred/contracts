@@ -37,7 +37,7 @@ Ambas partes se reconocen mutuamente la capacidad legal necesaria para la firma 
 * **Oferta de trabajo / Proceso de selección**: En ocasiones utilizaremos la expresión oferta de trabajo y en otras procesos de selección, en ambos casos nos estamos refiriendo a lo mismo, usaremos una u otra simplemente como un recurso literario para que no te duermas leyendo este contrato.
 
 ## 3. Naturaleza y Contenido de este contrato
-La naturaleza jurídica de este contrato es mercantil, sin que suponga establecer ningún tipo  de relación laboral entre la EMPRESA y el REPRESENTANTE.
+La naturaleza jurídica de este contrato es mercantil, sin que suponga establecer ningún tipo de relación laboral entre la EMPRESA y el REPRESENTANTE.
 Este contrato tiene por objeto fijar:
 1. Las condiciones bajo las que el REPRESENTANTE suministrará a la EMPRESA perfiles profesionales de **candidatos** para cubrir ciertos puestos de trabajo en la misma, con incorporación inmediata o futura.
 2. La información que la **EMPRESA** proporcionará al REPRESENTANTE relacionada con sus procesos de selección presentes o futuros.
@@ -47,7 +47,7 @@ Este contrato tiene por objeto fijar:
 * **Mantener informado al REPRESENTANTE sobre la marcha del proceso de selección**: La EMPRESA deberá mantener informado al REPRESENTANTE sobre la marcha del proceso de selección y, en caso de que finalmente el candidato presentado por el REPRESENTANTE no sea contratado, la EMPRESA se compromete a dar al REPRESENTANTE, en el plazo de una (1) semana, las razones por las cuales el candidato no ha superado el proceso de selección y, si es posible, enunciar que potenciales acciones podrían mejorar sus posibilidades de contratación en futuros procesos.
 * **No contactar directamente con el candidato y respetar su privacidad**: La EMPRESA se compromete a tratar únicamente con el REPRESENTANTE la negociación y posible incorporación del candidato a la EMPRESA. Si el proceso de selección que motivó la intervención del REPRESENTANTE no prospera o no finaliza con la contratación del candidato, pero posteriormente se abre un nuevo proceso de selección que encaje con el perfil del candidato, la EMPRESA contactará única y exclusivamente con el REPRESENTANTE para intentar cubrir ese puesto con el candidato.
 * **Protección de datos**: La EMPRESA se obliga a destruir/devolver toda la información que obre en su poder sobre el candidato presentado por el REPRESENTANTE -incluyendo tanto la facilitada por el mismo como por el REPRESENTANTE- una vez concluido el proceso de selección, si este no finaliza con la contratación de dicho candidato.
-* **Pago de la comisión al REPRESENTANTE**: En el caso de que el candidato sea contratado por la EMPRESA ya sea en el proceso de selección específico en el que este fue presentado por el REPRESENTANTE o en cualquier cualquier otra circunstancia en el plazo de seis meses, a contar desde la fecha en la que los datos del candidato fueron enviados a la EMPRESA, se abonará al REPRESENTANTE en concepto de comisión el   _______     % del salario bruto anual que vaya a percibir el candidato presentado, impuestos indirectos no incluidos, en un plazo no superior a 30 días desde la firma de dicho contrato.
+* **Pago de la comisión al REPRESENTANTE**: En el caso de que el candidato sea contratado por la EMPRESA ya sea en el proceso de selección específico en el que este fue presentado por el REPRESENTANTE o en cualquier cualquier otra circunstancia en el plazo de seis meses, a contar desde la fecha en la que los datos del candidato fueron enviados a la EMPRESA, se abonará al REPRESENTANTE en concepto de comisión el _______ % del salario bruto anual que vaya a percibir el candidato presentado, impuestos indirectos no incluidos, en un plazo no superior a 30 días desde la firma de dicho contrato.
 
 ### 3.2 Obligaciones del REPRESENTANTE
 * **Revisión de la oferta**: Teniendo en cuenta su conocimiento del mercado y la información facilitada, el REPRESENTANTE aconsejará a la EMPRESA -si esta lo solicita expresamente- sobre las condiciones y requisitos definitivos de la oferta de trabajo, con el objetivo de asegurar que esta sea lo más competitiva posible y maximizar el número de candidaturas que esta pueda generar.
@@ -97,5 +97,5 @@ La EMPRESA
 
 
 
-En Madrid, a ........ de ....... de 20...........  
+En Madrid, a ........ de ....... de 20...........
 
