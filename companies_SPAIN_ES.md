@@ -34,7 +34,7 @@ Ambas partes se reconocen mutuamente la capacidad legal necesaria para la firma 
 * **Candidato o Representado**: Es la persona física, mayor de edad y con plena capacidad jurídica y de obrar, que encarga al REPRESENTANTE la tarea de ayudarle a gestionar su carrera profesional, incluyendo la búsqueda de procesos de selección.
 * **Representante**: Es la persona, física o jurídica, a la que el CANDIDATO contrata para que le ayude a gestionar su carrera profesional.
 * **Empresa**: Se entiende por empresa una unidad de organización dedicada a actividades industriales, mercantiles o de prestación de servicios con fines lucrativos.
-* **Oferta de trabajo / Proceso de selección**: En ocasiones utilizaremos la expresión oferta de trabajo y en otras procesos de selección, en ambos casos nos estamos refiriendo a lo mismo, usaremos una u otra simplemente como un recurso literario para que no te duermas leyendo este contrato.
+* **Oferta de trabajo / Proceso de selección**: En ocasiones utilizaremos la expresión "oferta de trabajo" y en otras "proceso de selección"; en ambos casos nos estamos refiriendo a lo mismo, usaremos una u otra simplemente como un recurso literario para que no te duermas leyendo este contrato.
 
 ## 3. Naturaleza y Contenido de este contrato
 La naturaleza jurídica de este contrato es mercantil, sin que suponga establecer ningún tipo de relación laboral entre la EMPRESA y el REPRESENTANTE.
