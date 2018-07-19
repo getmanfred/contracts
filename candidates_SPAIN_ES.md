@@ -41,7 +41,7 @@ A los efectos de este contrato se entiende por:
 
 La gestión de nuestra carrera profesional es una tarea complicada que requiere dedicación y determinadas habilidades que poco tienen que ver con nuestro desempeño. Uno de los puntos clave de esa gestión de una carrera profesional es la búsqueda de nuevas oportunidades laborales. Se podría decir que buscar trabajo es un trabajo en sí mismo.
 
-Este contrato tiene por objeto definir las tareas, procesos y gestiones que el REPRESENTANTE llevará a cabo para ayudar al CANDIDATO a gestionar su carrera profesional y cómo este último retribuirá al primero por dichas gestiones, que incluirán entre diversas actividades y sin ánimo exhaustivo: asesorarle a la hora de elaborar y/o actualizar su curriculum vitae, identificar sus puntos fuertes y  areas de mejora, y, en su caso, encontrar el trabajo que más se ajuste a sus necesidades, preferencias y posibilidades.
+Este contrato tiene por objeto definir las tareas, procesos y gestiones que el REPRESENTANTE llevará a cabo para ayudar al CANDIDATO a gestionar su carrera profesional y cómo este último retribuirá al primero por dichas gestiones, que incluirán entre diversas actividades y sin ánimo exhaustivo: asesorarle a la hora de elaborar y/o actualizar su curriculum vitae, identificar sus puntos fuertes y  áreas de mejora, y, en su caso, encontrar el trabajo que más se ajuste a sus necesidades, preferencias y posibilidades.
 
 Para poder hacerlo, antes es necesario dejar firmado por escrito a que se compromete cada parte, para que no haya malentendidos:
 
@@ -103,7 +103,7 @@ El candidato se compromete a:
 
 * **Permitir que el REPRESENTANTE informe a las empresas de los motivos por los que no desea participar en un proceso de selección**, con el objetivo de que estas puedan mejorar dichos procesos, siempre sin revelar datos personales y/o profesionales del CANDIDATO.
 
-* **Pagar al REPRESENTANTE la cantidad equivalente al ___________  % del salario bruto anual + impuestos indirectos que vaya a percibir el CANDIDATO** cuando el CANDIDATO acepte y firme un contrato con una empresa como consecuencia de las gestiones realizadas por el REPRESENTANTE, en cumplimiento del mandato expreso del CANDIDATO, documentado en el Anexo de este contrato. Esta comisión es única y no recurrente, vinculada a los hechos descritos en esta clausula, y se pagara en 3 partes: la primera, en los 15 días posteriores a la firma del contrato; la segunda, a los 45 días de dicha firma y la última a los 3 meses, excepto que en el Anexo de este contrato se estipulen condiciones diferentes. 
+* **Pagar al REPRESENTANTE la cantidad equivalente al ___________  % del salario bruto anual + impuestos indirectos que vaya a percibir el CANDIDATO** cuando el CANDIDATO acepte y firme un contrato con una empresa como consecuencia de las gestiones realizadas por el REPRESENTANTE, en cumplimiento del mandato expreso del CANDIDATO, documentado en el Anexo de este contrato. Esta comisión es única y no recurrente, vinculada a los hechos descritos en esta cláusula, y se pagará en 3 partes: la primera, en los 15 días posteriores a la firma del contrato; la segunda, a los 45 días de dicha firma y la última a los 3 meses, excepto que en el Anexo de este contrato se estipulen condiciones diferentes. 
 
 No obstante, **se contemplan una serie de excepciones que podrían eximir al CANDIDATO del pago de la comisión del REPRESENTANTE**:
 
