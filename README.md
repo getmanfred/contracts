@@ -23,9 +23,9 @@ Contracts used by the [Manfred Tech Talent Agency](https://www.getmanfred.com/) 
 
 ## Motivation
 
-One of the peculiarities of recruitment is opacity. Recruitment should be a business of transparency and openness because **this it's not about Apples or PCs but people**.
+One of the peculiarities of recruitment is opacity. Recruitment should be a business of transparency and openness because **this is not about Apples or PCs but people**.
 
-We are committed to change that model with a candidate-centric approach and, as a first step toward our goal, **we have *open-source*d the contracts we use with both talent/candidates and hiring companies** so they can be read, studied, compared, discussed and used by the Community.
+We are committed to change that model with a candidate-centric approach and, as a first step towards our goal, **we have *open-source*d the contracts we use with both talent/candidates and hiring companies** so they can be read, studied, compared, discussed and used by the Community.
 
 It's just a small contribution but hopefully it is the first step in disrupting the status quo of recruiting. You can take a look at **our manifesto** and learn more about us on [our website](https://www.getmanfred.com/).
 
