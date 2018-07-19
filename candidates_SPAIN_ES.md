@@ -146,7 +146,7 @@ Este contrato se extinguirá por alguna de las siguientes causas:
 2. **Por la imposibilidad sobrevenida de realizar el encargo**
 3. **Por muerte o inhabilitación del representante y/o del candidato**
 4. **Por incumplimiento de cualquiera de las partes de sus obligaciones contractuales**
-6. **Por desistimiento unilateral de alguna de las partes**, con un preaviso de quince (15) días -que menos- y, eso sí, respetando el espíritu y condiciones del contrato en todos los procesos de selección que estén en marcha en el momento de la rescisión del mismo.
+6. **Por desistimiento unilateral de alguna de las partes**, con un preaviso de quince (15) días -¡qué menos!- y, eso sí, respetando el espíritu y condiciones del contrato en todos los procesos de selección que estén en marcha en el momento de la rescisión del mismo.
 
 ## 6. Nulidad parcial
 
