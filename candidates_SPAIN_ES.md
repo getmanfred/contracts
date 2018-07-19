@@ -43,7 +43,7 @@ La gestión de nuestra carrera profesional es una tarea complicada que requiere 
 
 Este contrato tiene por objeto definir las tareas, procesos y gestiones que el REPRESENTANTE llevará a cabo para ayudar al CANDIDATO a gestionar su carrera profesional y cómo este último retribuirá al primero por dichas gestiones, que incluirán entre diversas actividades y sin ánimo exhaustivo: asesorarle a la hora de elaborar y/o actualizar su curriculum vitae, identificar sus puntos fuertes y áreas de mejora, y, en su caso, encontrar el trabajo que más se ajuste a sus necesidades, preferencias y posibilidades.
 
-Para poder hacerlo, antes es necesario dejar firmado por escrito a que se compromete cada parte, para que no haya malentendidos:
+Para poder hacerlo, antes es necesario dejar firmado por escrito a qué se compromete cada parte, para que no haya malentendidos:
 
 * Este es un **contrato mercantil**. El CANDIDATO contrata al REPRESENTANTE para que realice una determinada tarea: ayudarle a definir y poner en valor su perfil profesional y encontrar los procesos de selección que más se ajusten al mismo.
 
@@ -51,7 +51,7 @@ Para poder hacerlo, antes es necesario dejar firmado por escrito a que se compro
 
 ## 4. El contenido
 
-Una vez que tenemos claro para que sirve este contrato, es el momento de que especifiquemos a que se comprometen tanto el REPRESENTANTE como el CANDIDATO.
+Una vez que tenemos claro para qué sirve este contrato, es el momento de que especifiquemos a qué se comprometen tanto el REPRESENTANTE como el CANDIDATO.
 
 ### 4.1 Obligaciones del representante
 
@@ -113,7 +113,7 @@ No obstante, **se contemplan una serie de excepciones que podrían eximir al CAN
 
 ### 4.3 Control de los procesos de selección
 
-El CANDIDATO siempre tendrá control total sobre el proceso: no sólo definirá los requisitos mínimos que deben cumplir las potenciales ofertas que le presente el REPRESENTANTE, sino que también puede definir, si lo desea, cuales no le interesan en absoluto. Y, por supuesto, puede cambiar de opinión en cualquier momento.
+El CANDIDATO siempre tendrá control total sobre el proceso: no sólo definirá los requisitos mínimos que deben cumplir las potenciales ofertas que le presente el REPRESENTANTE, sino que también puede definir, si lo desea, cuáles no le interesan en absoluto. Y, por supuesto, puede cambiar de opinión en cualquier momento.
 
 A pesar de que una oferta cumpla dichos requisitos mínimos, el REPRESENTANTE nunca suministrará datos personales y/o profesionales del CANDIDATO sin el consentimiento expreso y por escrito del mismo para dicha oferta en concreto.
 
