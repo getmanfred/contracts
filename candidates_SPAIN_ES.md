@@ -41,9 +41,9 @@ A los efectos de este contrato se entiende por:
 
 La gestión de nuestra carrera profesional es una tarea complicada que requiere dedicación y determinadas habilidades que poco tienen que ver con nuestro desempeño. Uno de los puntos clave de esa gestión de una carrera profesional es la búsqueda de nuevas oportunidades laborales. Se podría decir que buscar trabajo es un trabajo en sí mismo.
 
-Este contrato tiene por objeto definir las tareas, procesos y gestiones que el REPRESENTANTE llevará a cabo para ayudar al CANDIDATO a gestionar su carrera profesional y cómo este último retribuirá al primero por dichas gestiones, que incluirán entre diversas actividades y sin ánimo exhaustivo: asesorarle a la hora de elaborar y/o actualizar su curriculum vitae, identificar sus puntos fuertes y  areas de mejora, y, en su caso, encontrar el trabajo que más se ajuste a sus necesidades, preferencias y posibilidades.
+Este contrato tiene por objeto definir las tareas, procesos y gestiones que el REPRESENTANTE llevará a cabo para ayudar al CANDIDATO a gestionar su carrera profesional y cómo este último retribuirá al primero por dichas gestiones, que incluirán entre diversas actividades y sin ánimo exhaustivo: asesorarle a la hora de elaborar y/o actualizar su curriculum vitae, identificar sus puntos fuertes y áreas de mejora, y, en su caso, encontrar el trabajo que más se ajuste a sus necesidades, preferencias y posibilidades.
 
-Para poder hacerlo, antes es necesario dejar firmado por escrito a que se compromete cada parte, para que no haya malentendidos:
+Para poder hacerlo, antes es necesario dejar firmado por escrito a qué se compromete cada parte, para que no haya malentendidos:
 
 * Este es un **contrato mercantil**. El CANDIDATO contrata al REPRESENTANTE para que realice una determinada tarea: ayudarle a definir y poner en valor su perfil profesional y encontrar los procesos de selección que más se ajusten al mismo.
 
@@ -51,7 +51,7 @@ Para poder hacerlo, antes es necesario dejar firmado por escrito a que se compro
 
 ## 4. El contenido
 
-Una vez que tenemos claro para que sirve este contrato, es el momento de que especifiquemos a que se comprometen tanto el REPRESENTANTE como el CANDIDATO.
+Una vez que tenemos claro para qué sirve este contrato, es el momento de que especifiquemos a qué se comprometen tanto el REPRESENTANTE como el CANDIDATO.
 
 ### 4.1 Obligaciones del representante
 
@@ -81,7 +81,7 @@ El REPRESENTANTE, se compromete a:
 	* En caso de que este proceso de selección no concluya con la contratación del CANDIDATO, el REPRESENTANTE pedirá a los encargados del proceso de selección información sobre la decisión tomada que permita mejorar la candidatura de su representado en futuros procesos.
 	* El REPRESENTANTE sólo informará al CANDIDATO -o a aquella persona de contacto que este designe expresamente y por escrito- del estado del proceso.
 
-* **Velar por los Privacidad de los datos del CANDIDATO**. Si este participa en un proceso de selección que no concluya con su contratación, puede pedir al REPRESENTANTE que traslade a la empresa responsable del mismo su deseo expreso de que eliminen sus datos personales, siguiendo la legislación de Privacidad de Datos aplicable en cada momento.
+* **Velar por la Privacidad de los datos del CANDIDATO**. Si este participa en un proceso de selección que no concluya con su contratación, puede pedir al REPRESENTANTE que traslade a la empresa responsable del mismo su deseo expreso de que eliminen sus datos personales, siguiendo la legislación de Privacidad de Datos aplicable en cada momento.
 
 * **Si el candidato le autoriza, expresamente y por escrito, y siempre que sea posible, a negociar su salario y/o otras condiciones laborales**. Tanto en nuevas empresas con procesos de selección abiertos en los que esté participando el candidato como en aquella donde el CANDIDATO venga prestando servicios de forma habitual.
 
@@ -91,19 +91,19 @@ El REPRESENTANTE, se compromete a:
 
 El candidato se compromete a:
 
-* **Proporcionar al REPRESENTANTE toda la información que sea relevante e importante para el desarrollo y ejecución de este contrato**. Para que el REPRESENTANTE pueda desarrollar su labor con eficacia, el CANDIDATO debe proporcionarle, por escrito, toda la información relevante para alcanzar el objeto de este contrato, como - a título meramente ejemplificativo y no exhaustivo- en qué empresas/sectores no trabajaría bajo ninguna circunstancia, que salario tiene como objetivo, cúal es el ámbito geográfico donde desea trabajar o si sólo quiere hacerlo en remoto, etcétera.
+* **Proporcionar al REPRESENTANTE toda la información que sea relevante e importante para el desarrollo y ejecución de este contrato**. Para que el REPRESENTANTE pueda desarrollar su labor con eficacia, el CANDIDATO debe proporcionarle, por escrito, toda la información relevante para alcanzar el objeto de este contrato, como -a título meramente ejemplificativo y no exhaustivo- en qué empresas/sectores no trabajaría bajo ninguna circunstancia, qué salario tiene como objetivo, cuál es el ámbito geográfico donde desea trabajar o si sólo quiere hacerlo en remoto, etcétera.
 
 * **Proporcionar al REPRESENTANTE información veraz**. El CANDIDATO se compromete a que toda la información suministrada al REPRESENTANTE sea real. En caso de que sea necesario para realizar su labor, el REPRESENTANTE se reserva la posibilidad de comprobar la formación, experiencia y/o referencias suministradas por este, pero por defecto no se llevará a cabo comprobación previa alguna, puesto que la naturaleza de la relación entre CANDIDATO y REPRESENTANTE exige una total confianza y transparencia. El CANDIDATO asume toda la responsabilidad -y, al mismo tiempo, exime al representante- de cualquier reclamación por daños y perjuicios causados a un tercero como consecuencia del uso de información que no se ajuste a la realidad en cualquier documento o actividad relacionados con un proceso de selección. 
 
 * **Actuar con confidencialidad**. El CANDIDATO no revelerá públicamente ningún detalle de los procesos de selección en los que participe gracias a la mediación directa del REPRESENTANTE, excepto que la empresa que gestione el mismo le autorice expresamente y por escrito. Si el CANDIDATO incumple esta obligación de confidencialidad, causando algún perjuicio a la empresa, y ésta decide solicitar una indemnización por daños y perjuicios, el REPRESENTANTE quedará exento de toda responsabilidad. No obstante, se excluye de esta cláusula, toda información que:
 	* Sea o llegue a ser de dominio público, sin mediar incumplimiento por parte del CANDIDATO, de este contrato.
 	* Que haya sido publicada con anterioridad a la fecha de este contrato.
-	* Que previa a su divulgación fuese conocida por el CANDIDATO, sin obligación de mantenerla confidancial, siempre que pueda demostrarlo mediante la presentación de la documentación oportuna.
+	* Que previa a su divulgación fuese conocida por el CANDIDATO, sin obligación de mantenerla confidencial, siempre que pueda demostrarlo mediante la presentación de la documentación oportuna.
 	* Que sea revelada en cumplimiento de un requerimiento judicial, con la extensión y alcance contemplados en ese requerimiento judicial.
 
 * **Permitir que el REPRESENTANTE informe a las empresas de los motivos por los que no desea participar en un proceso de selección**, con el objetivo de que estas puedan mejorar dichos procesos, siempre sin revelar datos personales y/o profesionales del CANDIDATO.
 
-* **Pagar al REPRESENTANTE la cantidad equivalente al ___________  % del salario bruto anual + impuestos indirectos que vaya a percibir el CANDIDATO** cuando el CANDIDATO acepte y firme un contrato con una empresa como consecuencia de las gestiones realizadas por el REPRESENTANTE, en cumplimiento del mandato expreso del CANDIDATO, documentado en el Anexo de este contrato. Esta comisión es única y no recurrente, vinculada a los hechos descritos en esta clausula, y se pagara en 3 partes: la primera, en los 15 días posteriores a la firma del contrato; la segunda, a los 45 días de dicha firma y la última a los 3 meses, excepto que en el Anexo de este contrato se estipulen condiciones diferentes. 
+* **Pagar al REPRESENTANTE la cantidad equivalente al ___________ % del salario bruto anual + impuestos indirectos que vaya a percibir el CANDIDATO** cuando el CANDIDATO acepte y firme un contrato con una empresa como consecuencia de las gestiones realizadas por el REPRESENTANTE, en cumplimiento del mandato expreso del CANDIDATO, documentado en el Anexo de este contrato. Esta comisión es única y no recurrente, vinculada a los hechos descritos en esta cláusula, y se pagará en 3 partes: la primera, en los 15 días posteriores a la firma del contrato; la segunda, a los 45 días de dicha firma; y la última a los 3 meses, excepto que en el Anexo de este contrato se estipulen condiciones diferentes. 
 
 No obstante, **se contemplan una serie de excepciones que podrían eximir al CANDIDATO del pago de la comisión del REPRESENTANTE**:
 
@@ -113,7 +113,7 @@ No obstante, **se contemplan una serie de excepciones que podrían eximir al CAN
 
 ### 4.3 Control de los procesos de selección
 
-El CANDIDATO siempre tendrá  control total sobre el proceso: no sólo definirá los requisitos mínimos que deben cumplir las potenciales ofertas que le presente el REPRESENTANTE, sino que también puede definir, si lo desea, cuales no le interesan en absoluto. Y, por supuesto, puede cambiar de opinión en cualquier momento.
+El CANDIDATO siempre tendrá control total sobre el proceso: no sólo definirá los requisitos mínimos que deben cumplir las potenciales ofertas que le presente el REPRESENTANTE, sino que también puede definir, si lo desea, cuáles no le interesan en absoluto. Y, por supuesto, puede cambiar de opinión en cualquier momento.
 
 A pesar de que una oferta cumpla dichos requisitos mínimos, el REPRESENTANTE nunca suministrará datos personales y/o profesionales del CANDIDATO sin el consentimiento expreso y por escrito del mismo para dicha oferta en concreto.
 
@@ -122,7 +122,7 @@ A pesar de que una oferta cumpla dichos requisitos mínimos, el REPRESENTANTE nu
 
 Para poder cumplir con el contenido de este contrato es necesario que el REPRESENTANTE sepa (la legislación dice "trate") determinados datos del CANDIDATO que son de carácter personal, como son por ejemplo toda la información que este incluye en su curriculum vitae (datos personales y formación académica).
 
-El REPRESENTANTE utilizará estos datos con la única finalidad de gestionar la carrera profesional del CANDIDATO (creación de currículums actualizados, formación específica) o buscar ofertas de trabajo que  sean adecuados al perfil profesional del CANDIDATO. Si este no consigue el puesto de trabajo y lo pide expresamente y por escrito, **el REPRESENTANTE solicitará en su nombre a las empresas responsables de los procesos de selección la eliminación de sus datos personales (derecho al olvido)**.
+El REPRESENTANTE utilizará estos datos con la única finalidad de gestionar la carrera profesional del CANDIDATO (creación de currículums actualizados, formación específica) o buscar ofertas de trabajo que sean adecuados al perfil profesional del CANDIDATO. Si este no consigue el puesto de trabajo y lo pide expresamente y por escrito, **el REPRESENTANTE solicitará en su nombre a las empresas responsables de los procesos de selección la eliminación de sus datos personales (derecho al olvido)**.
 
 Los datos personales del candidato que sean tratados por el REPRESENTANTE sólo se comunicarán a las empresas en cuyos procesos de selección el CANDIDATO haya autorizado al REPRESENTANTE a presentar su candidatura al puesto de trabajo ofertado, y a aquellos a quienes el REPRESENTANTE esté obligado a hacerlo por imperativo legal.
 
@@ -146,7 +146,7 @@ Este contrato se extinguirá por alguna de las siguientes causas:
 2. **Por la imposibilidad sobrevenida de realizar el encargo**
 3. **Por muerte o inhabilitación del representante y/o del candidato**
 4. **Por incumplimiento de cualquiera de las partes de sus obligaciones contractuales**
-6. **Por desistimiento unilateral de alguna de las partes**, con un preaviso de quince (15) días -que menos- y, eso sí, respetando el espíritu y condiciones del contrato en todos los procesos de selección que estén en marcha en el momento de la recisión del mismo.
+6. **Por desistimiento unilateral de alguna de las partes**, con un preaviso de quince (15) días -¡qué menos!- y, eso sí, respetando el espíritu y condiciones del contrato en todos los procesos de selección que estén en marcha en el momento de la rescisión del mismo.
 
 ## 6. Nulidad parcial
 
@@ -172,5 +172,5 @@ El CANDIDATO
 
 
 
-En Madrid, a ........ de ....... de 20...........  
+En Madrid, a ........ de ....... de 20...........
 

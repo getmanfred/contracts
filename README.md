@@ -23,9 +23,9 @@ Contracts used by the [Manfred Tech Talent Agency](https://www.getmanfred.com/) 
 
 ## Motivation
 
-One of the peculiarities of recruitment is opacity. Recruitment should be a business of transparency and openness because **this it's not about Apples or PCs but people**.
+One of the peculiarities of recruitment is opacity. Recruitment should be a business of transparency and openness because **this is not about Apples or PCs but people**.
 
-We are committed to change that model with a candidate-centric approach and, as a first step toward our goal, **we have *open-source*d the contracts we use with both talent/candidates and hiring companies** so they can be read, studied, compared, discussed and used by the Community.
+We are committed to change that model with a candidate-centric approach and, as a first step towards our goal, **we have *open-source*d the contracts we use with both talent/candidates and hiring companies** so they can be read, studied, compared, discussed and used by the Community.
 
 It's just a small contribution but hopefully it is the first step in disrupting the status quo of recruiting. You can take a look at **our manifesto** and learn more about us on [our website](https://www.getmanfred.com/).
 
@@ -120,7 +120,7 @@ More questions? Contact us:
 
 Special thanks go to those who contributed to publish this repository:
 
-* [David Morillo](https://twitter.com/dmorillo), from [HiringIT](https://hiringit.es/), who provided us the basic know-how to start to work with.
+* [David Morillo](https://twitter.com/dmorillo), from [HiringIT](https://hiringit.es/), who provided us with the basic know-how to start to work with.
 * [Ben Naftzger](https://twitter.com/bennaftzger), who *debugged* the readme final version.
 * [Pepe Doval](https://twitter.com/pepellou), for his infinite patience teaching the legal team how to use Git :)
 * [José Antonio Espín](https://twitter.com/jaespinmora), for his constant feedback to improve the first version of these contracts.
