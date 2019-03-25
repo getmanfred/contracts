@@ -10,11 +10,11 @@
 
 | Datos del Candidato | |
 | --- | --- |
-| Nombre y apellidos | __________ |
-| DNI | __________ |
-| Dirección | __________ |
-| Email | __________ |
-| Teléfono | __________ |
+| Nombre y apellidos | Brayan Steven Rondon hernandez |
+| DNI | PAs 081820382 |
+| Dirección | Lima, Peru |
+| Email | brayanrondon@gmail.com |
+| Teléfono | +51936234331 |
 
 A partir de ahora, el CANDIDATO.
 
