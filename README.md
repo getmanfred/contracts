@@ -42,20 +42,20 @@ Contracts are provided "as is" and there are no guarantees or warranties attache
 
 ## The Candidate Contract
 
-This is the contract between an agent and the customer (candidate), where candidate gives a mandate (a set of orders and requirements) to agent. If agent opens a hiring process according to it and candidate is finally hired, the agent will receive a fee, a % of candidate's gross annual salary (first year salary), payable by candidate.
+This is the contract between an agent and the candidate, where candidate gives a mandate (a set of orders and requirements) to agent.
 
 In this contract, you can:
 
 * Define both candidate and agent info
 * Set the candidate mandate
-* Set the agent fee
+* Rights and obligations of both parts (especially for Privacy)
 
-We also have clauses to manage edge cases, such as: counter-offers, promotions or hiring processes not managed directly by the agent. We draft all clauses based on our very own 'candidate-centric' model.
+> Currently, no contract must be signed by candidates. Instead of it they just need to accept [our Privacy Policy](https://www.getmanfred.com/privacy-policy.html).
 
 
 ## The Company Contract
 
-Sometimes, companies approach us looking for talent. In this case, we work as both talent agents and headhunters. This is a contract between an agent and the customer (company), where the company can define their need(s) (e.g. a job position with specific requirements). If agent opens a hiring process accordingly and a candidate is hired, the agent will receive a fee (% of candidate's gross annual salary (first year salary), payable by company.
+This is a contract between an agent and a company, where the company can define their need(s) (e.g. a job position with specific requirements). If agent opens a hiring process accordingly and a candidate is hired, the agent will receive a fee (% of candidate's gross annual salary (first year salary), payable by company.
 
 In this contract, you can:
 
@@ -67,9 +67,9 @@ We also have clauses to manage the entire hiring process. We draft all clauses b
 
 ## The Fee
 
-Some people asked us why we didn't include a explicit fee in the contract templates. The answer is very simple: because they are templates.
+Some people asked us why we didn't include a explicit fee in the contract template. The answer is very simple: because they are templates.
 
-These contract templates can be used by everyone, and everybody can decide which fee they want to charge. **Nowadays, we charge 10% for both candidates and companies** but the recruiting standard fee is around 15-20% or even 30%. It depends on the market and profiles.
+These contract templates can be used by everyone, and everybody can decide which fee they want to charge. **Nowadays, we charge 15%** but the recruiting standard fee is around 15-20% or even 30%. It depends on the market and profiles.
 
 
 ## Things to be Done
@@ -94,6 +94,7 @@ Our lawyers will then review changes and, if it makes sense, we will merge your 
 * 0.4 Credits added
 * 0.5 No-competition clause included
 * 0.6 Info about "the Fee" included
+* 0.7 To reduce friction, signing a contract is not anymore a requirement for candidates.
 
 ## License and Author Info
 
