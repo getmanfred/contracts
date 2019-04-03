@@ -50,7 +50,7 @@ In this contract, you can:
 * Set the candidate mandate
 * Rights and obligations of both parts (especially for Privacy)
 
-> Currently, no contract must be signed by candidates. Instead of it they just need to accept [our Privacy Policy](https://www.getmanfred.com/privacy-policy.html).
+> Currently, no contract must be signed by candidates. They just need to accept [our Privacy Policy](https://www.getmanfred.com/privacy-policy.html) instead.
 
 
 ## The Company Contract
