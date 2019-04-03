@@ -1,6 +1,6 @@
 # Contrato para la gestión de procesos de selección
 
- Copyright (C) 2018 Bonillaware SLU.
+ Copyright (C) 2019 Bonillaware SLU.
  
  Se otorga permiso para copiar, distribuir y/o modificar este documento
  siguiendo las clausulas de la GNU Free Documentation License, Version 1.3
@@ -44,21 +44,27 @@ Este contrato tiene por objeto fijar:
 
 ### 3.1 Obligaciones de la empresa
 * **Informar sobre el proceso de selección**: La EMPRESA pondrá en conocimiento del REPRESENTANTE, mediante notificación al Email especificado en la cabecera de este contrato, las condiciones específicas del puesto de trabajo que desea cubrir, con especial atención a los **requisitos que deben reunir los candidatos** para ajustarse al mismo como, por ejemplo y a título meramente ejemplificativo y sin ánimo exhaustivo: habilidades y conocimientos tecnológicos, formación -reglada o no-, experiencia laboral previa, rango salarial ofertado, horario laboral, posibilidad o no de trabajar en remoto, etc. También se suministrará información lo más detallada posible sobre las distintas **fases, pruebas, plazos e intervinientes de dicho proceso de selección**.
-* **Mantener informado al REPRESENTANTE sobre la marcha del proceso de selección**: La EMPRESA deberá mantener informado al REPRESENTANTE sobre la marcha del proceso de selección y, en caso de que finalmente el candidato presentado por el REPRESENTANTE no sea contratado, la EMPRESA se compromete a dar al REPRESENTANTE, en el plazo de una (1) semana, las razones por las cuales el candidato no ha superado el proceso de selección y, si es posible, enunciar qué potenciales acciones podrían mejorar sus posibilidades de contratación en futuros procesos.
-* **No contactar directamente con el candidato y respetar su privacidad**: La EMPRESA se compromete a tratar únicamente con el REPRESENTANTE la negociación y posible incorporación del candidato a la EMPRESA. Si el proceso de selección que motivó la intervención del REPRESENTANTE no prospera o no finaliza con la contratación del candidato, pero posteriormente se abre un nuevo proceso de selección que encaje con el perfil del candidato, la EMPRESA contactará única y exclusivamente con el REPRESENTANTE para intentar cubrir ese puesto con el candidato.
+* **Mantener informado al REPRESENTANTE sobre la marcha del proceso de selección**: La EMPRESA deberá mantener informado al REPRESENTANTE sobre la marcha del proceso de selección y, en caso de que finalmente el candidato presentado por el REPRESENTANTE no sea contratado, la EMPRESA se compromete a dar al REPRESENTANTE, en el plazo máximo de dos (2) semanas, las razones por las cuales el candidato no ha superado el proceso de selección y, si es posible, enunciar qué potenciales acciones podrían mejorar sus posibilidades de contratación en futuros procesos.
+* **No contactar directamente con el candidato y respetar su privacidad**: Excepto en el caso en el que el candidato acepte expresamente negociar directamente con la EMPRESA, esta se compromete a tratar únicamente con el REPRESENTANTE la negociación y posible incorporación del candidato a la misma. En cualquier caso, si el proceso de selección que motivó la intervención del REPRESENTANTE no prospera o no finaliza con la contratación del candidato, pero posteriormente se abre un nuevo proceso de selección que encaje con el perfil del candidato, la EMPRESA contactará única y exclusivamente con el REPRESENTANTE para intentar cubrir ese puesto con el candidato. 
 * **Protección de datos**: La EMPRESA se obliga a destruir/devolver toda la información que obre en su poder sobre el candidato presentado por el REPRESENTANTE -incluyendo tanto la facilitada por el mismo como por el REPRESENTANTE- una vez concluido el proceso de selección, si este no finaliza con la contratación de dicho candidato.
-* **Pago de la comisión al REPRESENTANTE**: En el caso de que el candidato sea contratado por la EMPRESA ya sea en el proceso de selección específico en el que este fue presentado por el REPRESENTANTE o en cualquier cualquier otra circunstancia en el plazo de seis (6) meses, a contar desde la fecha en la que los datos del candidato fueron enviados a la EMPRESA, se abonará al REPRESENTANTE en concepto de comisión el _______ % del salario bruto anual que vaya a percibir el candidato presentado, impuestos indirectos no incluidos, en un plazo no superior a 30 días desde la firma de dicho contrato.
+* **Pago de la comisión al REPRESENTANTE**: En el caso de que el candidato sea contratado por la EMPRESA ya sea en el proceso de selección específico en el que este fue presentado por el REPRESENTANTE o en cualquier otra circunstancia en el plazo de 12 (12) meses, a contar desde la fecha en la que los datos del candidato fueron enviados a la EMPRESA, se abonará al REPRESENTANTE en concepto de comisión **el ___  % del salario bruto anual (fijo + la totalidad del potencial variable) que vaya a percibir el candidato presentado**, impuestos indirectos no incluidos, en un plazo no superior a 30 días desde la aceptación de la oferta de trabajo por parte del candidato.
+* **Exclusividad de trabajo con el REPRESENTANTE**: la empresa se compromete a no contratar a ninguna otra compañía o profesional de recruiting para gestionar los procesos de selección encargados al REPRESENTANTE, desde el momento en el que notifiquen todas las características del mismo y hasta 1 mes después de dicha notificación. Así mismo, se compromete a informar al REPRESENTANTE de cualquier acción de promoción o difusión del proceso, así como de la recepción de candidaturas relacionadas con el mismo.
+
 
 ### 3.2 Obligaciones del REPRESENTANTE
 * **Revisión de la oferta**: Teniendo en cuenta su conocimiento del mercado y la información facilitada, el REPRESENTANTE aconsejará a la EMPRESA -si esta lo solicita expresamente- sobre las condiciones y requisitos definitivos de la oferta de trabajo, con el objetivo de asegurar que esta sea lo más competitiva posible y maximizar el número de candidaturas que esta pueda generar.
 * **Candidatos**: Una vez estudiadas las necesidades de la EMPRESA, le será facilitada información sobre candidatos que satisfagan sus necesidades y que, además, estén interesados en la oferta de trabajo.
 * **Mantener informada a la EMPRESA sobre el parecer del candidato**: En caso de que el candidato no esté interesado en la oferta, el REPRESENTANTE informará a la EMPRESA de esta circunstancia, con el ánimo de que esta disponga de la mayor información posible para que pueda mejorarla y hacerla más atractiva para otros potenciales candidatos.
-* **Protección de datos**: El REPRESENTANTE se obliga a destruir/devolver toda la información que obre en su poder sobre la oferta de trabajo y el proceso de selección presentado por la EMPRESA una vez concluido, si no finaliza con la contratación de dicho candidato y si la EMPRESA así lo requiriere.
-* **Garantía**: Si tras contratar la EMPRESA al candidato ofrecido por el REPRESENTANTE éste abandonara el puesto por voluntad propia en un plazo inferior a seis (6) meses desde su incorporación efectiva, el REPRESENTANTE ayudará a la EMPRESA a encontrar a otro candidato que reúna las condiciones establecidas en la oferta de trabajo sin coste alguno.
-* **No competencia**: Una vez que el candidato ya esté trabajando para la EMPRESA, la relación de representación existente entre candidato y REPRESENTANTE continuará, si así lo deciden ambos libremente, sin que la finalización de la misma esté vinculada a un proceso de selección concreto. No obstante y para evitar cualquier conflicto de intereses, si el candidato abandonara la EMPRESA durante el año posterior a su incorporación efectiva, como consecuencia de su participación con éxito en un proceso de selección de una tercera compañía propuesto por el REPRESENTANTE **de forma proactiva**, no a petición del mismo, el REPRESENTANTE se compromete a entregar a la EMPRESA cualquier posible comisión recibida por las gestiones realizadas en dicho proceso.
+* **Protección de datos**: El REPRESENTANTE se obliga a destruir/devolver toda la información que obre en su poder sobre la oferta de trabajo y el proceso de selección presentado por la EMPRESA una vez concluido, si la EMPRESA así lo requiriere.
+* **Garantía**: Si tras contratar la EMPRESA al candidato ofrecido por el REPRESENTANTE esta relación laboral finalizara antes del transcurso de tres (3) meses desde su incorporación efectiva, el REPRESENTANTE ayudará a la EMPRESA a encontrar a otro candidato que reúna las condiciones establecidas en la oferta de trabajo sin coste alguno.
+
 
 ## 4. Protección de Datos
 Para la ejecución de este contrato REPRESENTANTE y EMPRESA se autorizan recíprocamente a incluir datos de la otra en sus correspondientes bases de datos. Los datos tratados serán utilizados única y exclusivamente para la ejecución de este contrato. Ambas partes cumplirán con todas las obligaciones que impone la legislación vigente en cada momento en materia de protección de datos.
+
+El REPRESENTANTE es el titular de los datos de los posibles candidatos y por tanto le corresponde la obligatoriedad de recabar la autorización de los mismos para difundir sus datos personales.
+
+La EMPRESA actuará siempre como encargada de tratamiento, con la finalidad de estudiar los datos recibidos por el REPRESENTANTE e incluirlos en los procesos de selección correspondientes.
 
 ## 5. Acuerdo de Confidencialidad
 Las partes acuerdan que para la ejecución de este contrato deberán facilitarse o revelarse recíprocamente determinada información y documentación que se considera información confidencial y que puede incluir, entre otras, información sobre listas de clientes, información financiera, empleados, Know-how, relaciones contractuales, etc…
@@ -71,17 +77,25 @@ En caso de que alguna o algunas de las cláusulas de este contrato sean declarad
 ## 7. Extinción
 Este contrato se extinguirá por la concurrencia de cualquiera de las siguientes causas:
 
-1. Por el cumplimiento del encargo acordado.
-2. Por acuerdo de las partes.
-3. Por muerte, disolución o inhabilitación del REPRESENTANTE.
-4. Por imposibilidad sobrevenida para la ejecución de éste contrato.
-5. Por incumplimiento de cualquiera de las partes de sus obligaciones contractuales.
+1.	Por acuerdo de las partes.
+2.	Por muerte, disolución o inhabilitación del REPRESENTANTE.
+3.	Por imposibilidad sobrevenida para la ejecución de éste contrato.
+4.	Por incumplimiento de cualquiera de las partes de sus obligaciones contractuales.
+5.	Por decisión unilateral de cualquiera de las partes.
+
+En caso de que sea la EMPRESA quien inste la resolución unilateral de este contrato deberá abonar al REPRESENTANTE:
+
+* Respetar las obligaciones de la cláusula 3.1 derivadas de los procesos de selección iniciados durante la vigencia de este contrato.
+* Abonar al REPRESENTANTE las comisiones adeudadas en el momento de la resolución. 
+
+En caso de que sea el REPRESENTANTE quien inste la resolución unilateral de este contrato deberá respetar las obligaciones de la cláusula 3.2 derivadas de los procesos de selección iniciados durante la vigencia de este contrato.
+
 
 ## 8. Ley aplicable, jurisdicción y competencia
 Este contrato se rige por el ordenamiento jurídico español.
 
 ## 9. Solución de conflictos
-Las partes se someten al arbitraje para la resolución de cualquier controversia derivada de este contrato, que será resuelta por la Corte de Arbitraje de la Cámara Oficial de Comercio, Industria y Servicios de Madrid, y subsidiariamente a la competencia de los tribunales y juzgados de Madrid. 
+Las partes se someten al arbitraje para la resolución de cualquier controversia derivada de este contrato, que será resuelta por la Corte de Arbitraje de la Cámara Oficial de Comercio, Industria y Servicios de _________ , y subsidiariamente a la competencia de los tribunales y juzgados de ________ . 
 
 
 En prueba de su conformidad con el contenido este contrato así lo firman
