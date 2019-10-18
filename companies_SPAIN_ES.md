@@ -56,7 +56,7 @@ Este contrato tiene por objeto fijar:
 * **Candidatos**: Una vez estudiadas las necesidades de la EMPRESA, le será facilitada información sobre candidatos que satisfagan sus necesidades y que, además, estén interesados en la oferta de trabajo.
 * **Mantener informada a la EMPRESA sobre el parecer del candidato**: En caso de que el candidato no esté interesado en la oferta, el REPRESENTANTE informará a la EMPRESA de esta circunstancia, con el ánimo de que esta disponga de la mayor información posible para que pueda mejorarla y hacerla más atractiva para otros potenciales candidatos.
 * **Protección de datos**: El REPRESENTANTE se obliga a destruir/devolver toda la información que obre en su poder sobre la oferta de trabajo y el proceso de selección presentado por la EMPRESA una vez concluido, si la EMPRESA así lo requiriere.
-* **Garantía**: Si tras contratar la EMPRESA al candidato ofrecido por el REPRESENTANTE esta relación laboral finalizara antes del transcurso de tres (3) meses desde su incorporación efectiva, el REPRESENTANTE ayudará a la EMPRESA a encontrar a otro candidato que reúna las condiciones establecidas en la oferta de trabajo sin coste alguno.
+* **Garantía**: Si tras contratar la EMPRESA al candidato ofrecido por el REPRESENTANTE esta relación laboral finalizara antes del transcurso de tres (3) meses desde su incorporación efectiva, el REPRESENTANTE ayudará a la EMPRESA a encontrar a otro candidato que reúna las condiciones establecidas en la oferta de trabajo sin coste alguno. Esta garantía no se aplicará si la causa de extinción de la relación laboral es el cese de actividad o cierre del equipo, departamento o división en la que esté integrado el candidato o de la propia EMPRESA.
 
 
 ## 4. Protección de Datos
