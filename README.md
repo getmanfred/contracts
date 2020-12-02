@@ -35,8 +35,8 @@ It's just a small contribution but hopefully it is the first step in disrupting 
 
 As such, files in our contracts repository follow this nomenclature:
 
-* candidates: 'candidates_' + COUNTRY + [ISO 369-1](https://en.wikipedia.org/wiki/ISO_639-1), for language (e.g. candidates_SPAIN_ES.md)
-* companies: 'companies' + COUNTRY + [ISO 369-1](https://en.wikipedia.org/wiki/ISO_639-1), for language (e.g. companies_SPAIN_ES.md)
+* candidates: 'candidates_' + COUNTRY + [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1), for language (e.g. candidates_SPAIN_ES.md)
+* companies: 'companies' + COUNTRY + [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1), for language (e.g. companies_SPAIN_ES.md)
 
 Contracts are provided "as is" and there are no guarantees or warranties attached to them. If you want to use them, please do so at your own risk. We always recommend you seek independent, professional legal advice.
 
