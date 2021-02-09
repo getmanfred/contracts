@@ -69,7 +69,7 @@ We also have clauses to manage the entire hiring process. We draft all clauses b
 
 Some people asked us why we didn't include a explicit fee in the contract template. The answer is very simple: because they are templates.
 
-These contract templates can be used by everyone, and everybody can decide which fee they want to charge. **Nowadays, we charge from 15% to 20%**, depending on if we work with or without exclusivity, but the recruiting standard fee is around 16-20% or even 30%. It depends on the market and profiles.
+These contract templates can be used by everyone, and everybody can decide which fee they want to charge. **Nowadays, we charge 15%**, but the recruiting standard fee is around 16-20% or even 30%. It depends on the market and profiles.
 
 
 ## Things to be Done
