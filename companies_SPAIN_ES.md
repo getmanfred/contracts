@@ -66,7 +66,6 @@ Este contrato tiene por objeto fijar:
 * **Garantía**: Si tras contratar la EMPRESA al candidato ofrecido por MANFRED esta relación laboral finalizará antes del transcurso de tres (3) meses desde su incorporación efectiva, MANFRED ayudará a la EMPRESA a encontrar a otro candidato que cubra la misma posición o equivalente sin coste alguno. Esta garantía no se aplicará si la causa de extinción de la relación laboral es el cese de actividad o cierre del equipo, departamento o división en la que esté integrado el candidato o de la propia EMPRESA, así como el cambio de objetivos y estrategia de la misma que pueda convertir en superflua la posición ocupada por el candidato.
 
 
-
 ## 4. Protección de Datos
 Para la ejecución de este contrato REPRESENTANTE y EMPRESA se autorizan recíprocamente a incluir datos de la otra en sus correspondientes bases de datos. Los datos tratados serán utilizados única y exclusivamente para la ejecución de este contrato. Ambas partes cumplirán con todas las obligaciones que impone la legislación vigente en cada momento en materia de protección de datos.
 
