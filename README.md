@@ -94,7 +94,9 @@ Our lawyers will then review changes and, if it makes sense, we will merge your 
 * 0.4 Credits added
 * 0.5 No-competition clause included
 * 0.6 Info about "the Fee" included
-* 0.7 To reduce friction, signing a contract is not anymore a requirement for candidates.
+* 0.7 To reduce friction, signing a contract is not anymore a requirement for candidates
+* 0.8 Guarantee updated
+* 0.9 Guarantee and exclusivity updated. Offer posting and respect to salary range strengthened.
 
 ## License and Author Info
 
