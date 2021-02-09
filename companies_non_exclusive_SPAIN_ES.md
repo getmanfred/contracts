@@ -54,7 +54,7 @@ Este contrato tiene por objeto fijar:
 * **Candidatos**: Una vez estudiadas las necesidades de la EMPRESA, le será facilitada información sobre candidatos que satisfagan sus necesidades y que, además, estén interesados en la oferta de trabajo.
 * **Mantener informada a la EMPRESA sobre el parecer del candidato**: En caso de que el candidato no esté interesado en la oferta, el REPRESENTANTE informará a la EMPRESA de esta circunstancia, con el ánimo de que esta disponga de la mayor información posible para que pueda mejorarla y hacerla más atractiva para otros potenciales candidatos.
 * **Protección de datos**: El REPRESENTANTE se obliga a destruir/devolver toda la información que obre en su poder sobre la oferta de trabajo y el proceso de selección presentado por la EMPRESA una vez concluido, si la EMPRESA así lo requiriere.
-* **Garantía**: Si tras contratar la EMPRESA al candidato ofrecido por el REPRESENTANTE esta relación laboral finalizara antes del transcurso de tres (3) meses desde su incorporación efectiva, el REPRESENTANTE ayudará a la EMPRESA a encontrar a otro candidato que reúna las condiciones establecidas en la oferta de trabajo sin coste alguno.
+* **Garantía**: Si tras contratar la EMPRESA al candidato ofrecido por el REPRESENTANTE esta relación laboral finalizara antes del transcurso de tres (3) meses desde su incorporación efectiva, el REPRESENTANTE ayudará a la EMPRESA a encontrar a otro candidato que reúna las condiciones establecidas en la oferta de trabajo sin coste alguno. Esta garantía no se aplicará si la causa de extinción de la relación laboral es el cese de actividad o cierre del equipo, departamento o división en la que esté integrado el candidato o de la propia EMPRESA.
 
 ## 4. Protección de Datos
 Para la ejecución de este contrato REPRESENTANTE y EMPRESA se autorizan recíprocamente a incluir datos de la otra en sus correspondientes bases de datos. Los datos tratados serán utilizados única y exclusivamente para la ejecución de este contrato. Ambas partes cumplirán con todas las obligaciones que impone la legislación vigente en cada momento en materia de protección de datos.
@@ -66,8 +66,7 @@ La EMPRESA actuará siempre como encargada de tratamiento, con la finalidad de e
 ## 5. Acuerdo de Confidencialidad
 Las partes acuerdan que para la ejecución de este contrato deberán facilitarse o revelarse recíprocamente determinada información y documentación que se considera información confidencial y que puede incluir, entre otras, información sobre listas de clientes, información financiera, empleados, Know-how, relaciones contractuales, etc...
 
-La información recibida por las partes será guardada cumpliendo con las medidas de seguridad que las partes se exijan, y a la terminación de este contrato devueltas y/o destruida, informando en su caso a la otra parte de este hecho. En caso de que alguna de las partes no cumpla voluntariamente con 
-esta obligación en un plazo razonable, se podrá exigir el cumplimiento a su costa o la indemnización por daños y perjuicios que correspondan
+La información recibida por las partes será guardada cumpliendo con las medidas de seguridad que las partes se exijan, y a la terminación de este contrato devueltas y/o destruida, informando en su caso a la otra parte de este hecho. En caso de que alguna de las partes no cumpla voluntariamente con esta obligación en un plazo razonable, se podrá exigir el cumplimiento a su costa o la indemnización por daños y perjuicios que correspondan
 
 ## 6. Nulidad parcial
 En caso de que alguna o algunas de las cláusulas de este contrato sean declaradas nulas por un tribunal el contrato subsistirá respecto a todas las demás.
