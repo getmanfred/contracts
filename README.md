@@ -35,8 +35,8 @@ It's just a small contribution but hopefully it is the first step in disrupting 
 
 As such, files in our contracts repository follow this nomenclature:
 
-* candidates: 'candidates_' + COUNTRY + [ISO 369-1](https://en.wikipedia.org/wiki/ISO_639-1), for language (e.g. candidates_SPAIN_ES.md)
-* companies: 'companies' + COUNTRY + [ISO 369-1](https://en.wikipedia.org/wiki/ISO_639-1), for language (e.g. companies_SPAIN_ES.md)
+* candidates: 'candidates_' + COUNTRY + [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1), for language (e.g. candidates_SPAIN_ES.md)
+* companies: 'companies' + COUNTRY + [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1), for language (e.g. companies_SPAIN_ES.md)
 
 Contracts are provided "as is" and there are no guarantees or warranties attached to them. If you want to use them, please do so at your own risk. We always recommend you seek independent, professional legal advice.
 
@@ -69,7 +69,7 @@ We also have clauses to manage the entire hiring process. We draft all clauses b
 
 Some people asked us why we didn't include a explicit fee in the contract template. The answer is very simple: because they are templates.
 
-These contract templates can be used by everyone, and everybody can decide which fee they want to charge. **Nowadays, we charge from 15% to 20%**, depending on if we work with or without exclusivity, but the recruiting standard fee is around 16-20% or even 30%. It depends on the market and profiles.
+These contract templates can be used by everyone, and everybody can decide which fee they want to charge. **Nowadays, we charge 15%**, but the recruiting standard fee is around 16-20% or even 30%. It depends on the market and profiles.
 
 
 ## Things to be Done
