@@ -42,7 +42,7 @@ Contracts are provided "as is" and there are no guarantees or warranties attache
 
 ## The Candidate Contract
 
-This is the contract between an agent and the candidate, where candidate gives a mandate (a set of orders and requirements) to agent.
+This is the contract between a recruiter and the candidate, where candidate gives a mandate (a set of orders and requirements) to the recruiter.
 
 In this contract, you can:
 
@@ -50,18 +50,18 @@ In this contract, you can:
 * Set the candidate mandate
 * Rights and obligations of both parts (especially for Privacy)
 
-> Currently, no contract must be signed by candidates. They just need to accept [our Privacy Policy](https://www.getmanfred.com/privacy-policy.html) instead.
+> Currently, **no contract must be signed by our candidates**. They just need to accept [our Privacy Policy](https://www.getmanfred.com/privacy-policy.html) and [our Terms of Use](https://www.getmanfred.com/terminos-de-uso/) instead.
 
 
 ## The Company Contract
 
-This is a contract between an agent and a company, where the company can define their need(s) (e.g. a job position with specific requirements). If agent opens a hiring process accordingly and a candidate is hired, the agent will receive a fee (% of candidate's gross annual salary (first year salary), payable by company.
+This is a contract between a consultant and a company, where the company can define their need(s) (e.g. a job position with specific requirements). If consultant opens a hiring process accordingly and a candidate is hired, the recruiter will receive a fee (% of candidate's gross annual salary (first year salary), payable by company.
 
 In this contract, you can:
 
 * Define both company and agent info
 * Set the company needs
-* Set the agent fee
+* Set the recruiting success fee
 
 We also have clauses to manage the entire hiring process. We draft all clauses based on our very own 'candidate-centric' model.
 
@@ -74,11 +74,11 @@ These contract templates can be used by everyone, and everybody can decide which
 
 ## Things to be Done
 
-* 2.0 English translation of contracts for Spain jurisdiction
-* 3.0 First version of contracts for UK jurisdiction
-* 4.0 Spanish translation of contracts for UK jurisdiction
-* 5.0 First version of contracts for US jurisdiction
-* 6.0 Spanish translation of contracts for US jurisdiction
+* 2.0 English translation of contract for Spain jurisdiction
+* 3.0 First version of contract for UK jurisdiction
+* 4.0 Spanish translation of contract for UK jurisdiction
+* 5.0 First version of contract for US jurisdiction
+* 6.0 Spanish translation of contract for US jurisdiction
 
 ## How to propose a Change
 
@@ -95,6 +95,7 @@ Our lawyers will then review changes and, if it makes sense, we will merge your 
 * 0.5 No-competition clause included
 * 0.6 Info about "the Fee" included
 * 0.7 To reduce friction, signing a contract is not anymore a requirement for candidates.
+* 0.8 Non-exclusive services discontinued
 
 ## License and Author Info
 
