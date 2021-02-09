@@ -1,6 +1,6 @@
 # Contrato para la gestión de procesos de selección
 
- Copyright (C) 2019 Bonillaware SLU.
+ Copyright (C) 2021 Manfred Tech SLU.
  
  Se otorga permiso para copiar, distribuir y/o modificar este documento
  siguiendo las clausulas de la GNU Free Documentation License, Version 1.3
