@@ -117,7 +117,7 @@ En caso de que sea ______ quien inste la resolución unilateral de este contrato
 Este contrato se rige por el ordenamiento jurídico español.
 
 ## 9. Solución de conflictos
-Las partes se someten al arbitraje para la resolución de cualquier controversia derivada de este contrato, que será resuelta por la Corte de Arbitraje de la Cámara Oficial de Comercio, Industria y Servicios de Madrid, y subsidiariamente a la competencia de los tribunales y juzgados de Madrid. 
+Las partes se someten al arbitraje para la resolución de cualquier controversia derivada de este contrato, que será resuelta por la Corte de Arbitraje de la Cámara Oficial de Comercio, Industria y Servicios de Madrid, y subsidiariamente a la competencia de los tribunales y juzgados de ______. 
 
 
 La firma de este contrato resuelve cualquier contrato de naturaleza similar firmado con anterioridad por las partes. En prueba de su conformidad con el contenido del mismo así lo firman:
