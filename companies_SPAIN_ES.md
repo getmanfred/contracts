@@ -1,6 +1,6 @@
 # Acuerdo de colaboración para la gestión de procesos de selección
 
- Copyright (C) 2021 Manfred Tech SLU.
+ Copyright (C) 2023 Manfred Tech SLU.
  
  Se otorga permiso para copiar, distribuir y/o modificar este documento
  siguiendo las clausulas de la GNU Free Documentation License, Version 1.3
@@ -58,7 +58,9 @@ El espíritu de esta garantía es solucionar un problema sobrevenido de carencia
 
 ### 3.2 Obligaciones de la empresa
 * **Proporcionar toda la información necesaria del proceso de selección**: La EMPRESA pondrá en conocimiento de ______, mediante notificación al Email especificado en la cabecera de este contrato, las condiciones específicas del puesto de trabajo que desea cubrir, con especial atención a los **requisitos que deben reunir los candidatos** para ajustarse al mismo como, por ejemplo y a título meramente ejemplificativo y sin ánimo exhaustivo: habilidades y conocimientos tecnológicos, formación -reglada o no-, experiencia laboral previa, rango salarial ofertado, horario laboral, posibilidad o no de trabajar en remoto, etc. También se suministrará información lo más detallada posible sobre las distintas **fases, pruebas, plazos e intervinientes de dicho proceso de selección**.
+
 * **Mantener informado a ______ sobre la marcha del proceso de selección:** Para honrar la transparencia del proceso de selección, la EMPRESA deberá mantener informado ______ sobre la marcha del mismo y, en caso de que finalmente el candidato presentado por ______ no sea contratado, la EMPRESA se compromete a dar ______, en el plazo máximo de ______ ( ) semanas, las razones por las cuales el candidato no ha superado el proceso de selección y, si es posible, enunciar qué potenciales acciones podrían mejorar sus posibilidades de contratación en futuros procesos.
+
 * **No contactar directamente con el candidato y respetar su privacidad:** El CANDIDATO se inscribe en ______, a la que delega la gestión de su carrera profesional, no directamente en una oferta de empleo. Por eso, excepto en el caso de que acepte expresamente negociar directamente con la EMPRESA, esta se compromete a tratar únicamente con ______ la negociación y posible incorporación del CANDIDATO a la misma. En cualquier caso, si un proceso de selección en el que intervino ______ no prospera o finaliza sin la contratación del CANDIDATO, pero posteriormente se abre otro nuevo en el que encaja el perfil de este, la EMPRESA contactará única y exclusivamente con ______ para intentar cubrir ese puesto con el CANDIDATO.
  
 * **Protección de datos:** La EMPRESA será obligada a destruir/devolver toda la información que obre en su poder sobre el CANDIDATO presentado por ______ —incluyendo tanto la facilitada por el mismo como por ______— una vez concluido el proceso de selección, si este no finaliza con la contratación de dicho CANDIDATO, para cumplir la legislación vigente en materia de tratamiento de datos personales, tal y como refleja la cláusula 4 del presente acuerdo (PROTECCIÓN DE DATOS).
@@ -68,13 +70,17 @@ En el caso de que, por cualquier circunstancia, una vez iniciado el proceso de s
 
 * **Respetar el rango salarial anunciado:** En el caso de que el CLIENTE haga una oferta de empleo a un CANDIDATO, ofreciendo un salario inferior al rango mínimo al anunciado, sin haberlo consensuado previamente con ______, se facturará al primero _______ €, impuestos indirectos no incluidos, que serán donados a una organización o asociación sin ánimo de lucro de su elección.
 
-* **Pago de la comisión a ______:** La EMPRESA abonará a ______, ______ ( __ ) euros por la labor de consultoría y benchmarking, para refinar los requisitos y condiciones de la oferta así como la redacción y promoción de la misma, —impuestos indirectos no incluidos— en un plazo no superior a 60 días desde la fecha de publicación de la oferta. 
+* **Pagar los servicios de ______:** La EMPRESA abonará a ______, ______ ( __ ) euros por la labor de consultoría y benchmarking, para refinar los requisitos y condiciones de la oferta así como la redacción y promoción de la misma, —impuestos indirectos no incluidos— en un plazo no superior a 7 días desde la fecha de publicación de la oferta. 
 Además, en el caso de que alguno de los CANDIDATOS presentados por ______ sea finalmente contratado por la EMPRESA —ya sea en el proceso de selección específico en el que este fue presentado o en cualquier otra circunstancia, en el plazo de ______ ( __ ) meses, a contar desde la fecha en la que sus datos fueron enviados a la EMPRESA— se abonará a ______, en concepto de comisión, un único pago del __ % del salario bruto anual (fijo + la totalidad del potencial variable) que vayan a percibir los candidatos contratados en su primer año en la EMPRESA, impuestos indirectos no incluidos, en un plazo no superior a 30 días desde la aceptación de la oferta de trabajo por parte del candidato.
 En el cálculo de estas comisiones no se tendrá en cuenta ningún pago en especie, especialmente el potencial valor de las participaciones, stock options o phantom shares de la COMPAÑÍA que se otorguen a los CANDIDATOS como parte de su paquete retributivo.
 En el caso de que alguno de los CANDIDATOS presentados por ______ sea finalmente contratado por la EMPRESA, se descontará de las comisiones generadas el coste de ______ ( __ ) euros en concepto de consultoría y benchmarking.
 
 * **Asegurar la exclusividad del trabajo de ______** Desde el momento en que se notifiquen todas las características de una oferta de empleo y hasta un (1) mes después de dicha notificación, la ______ se compromete a no realizar ninguna acción de promoción o difusión de la oferta —como, por ejemplo, la publicación de la misma en distintos portales de anuncios de empleo— ni a contratar a ninguna otra compañía o profesional de recruiting para gestionar los procesos de selección encargados a ______.
 Así mismo, se compromete a informar a ______ de la recepción de candidaturas orgánicas (recibidas directamente, a través de su página web o redes sociales, o por recomendación de terceros sin incentivos económicos) relacionadas con dicha oferta.
+
+* **Asegurar la propiedad del contenido compartido con ______ o estar autorizado a usarolo:** La EMPRESA manifiesta ser el titular o licenciatario autorizado de todos aquellos derechos de propiedad intelectual e industrial, nombres de dominio y derechos de imagen que sean compartidos para la redacción y publicación de las ofertas de empleo que ______ difunda a través de sus distintos canales.  La EMPRESA cede de forma no exclusiva a ______ los derechos de uso de los mismos, que sean necesarios para el buen fin de este acuerdo.
+______ no será responsable de cualquier pérdida, reclamación, penalización, daños, responsabilidad y/o gastos en relación con cualquier vulneración de cualquier Derecho de Propiedad Intelectual o industrial de terceros, que se produzca como resultado del presente contrato.
+
 
 
 ## 4. Protección de Datos
@@ -98,16 +104,16 @@ En caso de que alguna o algunas de las cláusulas de este contrato sean declarad
 ## 7. Extinción
 Este contrato se extinguirá por la concurrencia de cualquiera de las siguientes causas:
 
-1.	Por acuerdo de las partes.
-2.	La firma de otro contrato de naturaleza similar entre las partes.
-3. Por muerte, disolución o inhabilitación de ______.
-4.	Por imposibilidad sobrevenida para la ejecución de éste contrato.
-5.	Por incumplimiento de cualquiera de las partes de sus obligaciones contractuales.
-6.	Por decisión unilateral de cualquiera de las partes.
+1. Por acuerdo de las partes.
+2. La firma de otro acuerdo de naturaleza similar entre las partes.
+3. Por cese de actividad o disolución de cualquiera de ambas partes.
+4. Por imposibilidad sobrevenida para la ejecución de este acuerdo.
+5. Por incumplimiento de cualquiera de las partes de sus obligaciones contractuales.
+6. Por decisión unilateral de cualquiera de las partes.
 
 En caso de que sea la EMPRESA quien inste la resolución unilateral de este contrato deberá abonar a ______:
 
-* Respetar las obligaciones de la cláusula 3.1 derivadas de los procesos de selección iniciados durante la vigencia de este contrato.
+* Respetar las obligaciones de la cláusula 3.2 derivadas de los procesos de selección iniciados durante la vigencia de este contrato.
 * Abonar a ______ las comisiones adeudadas en el momento de la resolución. 
 
 En caso de que sea ______ quien inste la resolución unilateral de este contrato deberá respetar las obligaciones de la cláusula 3.1 derivadas de los procesos de selección iniciados durante la vigencia de este contrato.
