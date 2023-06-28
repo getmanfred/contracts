@@ -96,6 +96,7 @@ Our lawyers will then review changes and, if it makes sense, we will merge your 
 * 0.6 Info about "the Fee" included
 * 0.7 To reduce friction, signing a contract is not anymore a requirement for candidates.
 * 0.8 Non-exclusive services discontinued
+* 0.9 Image licensing included 
 
 ## License and Author Info
 
